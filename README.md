@@ -189,7 +189,14 @@
 ## :globe_with_meridians: Internet
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/) : 
-- [Vivaldi](https://vivaldi.com) : 
+- [Vivaldi](https://vivaldi.com) :
+
+  #### Browser Addon: [*Firefox*](https://addons.mozilla.org/firefox/) / [*Chromium*](https://chrome.google.com/webstore/)
+   - $\color{Cerulean}{uBlock Origin}$ : It's not only an "ad blocker", it can also block a wide-spectrum content.
+   - $\color{Cerulean}{AdGuard AdBlocker}$ : An effective adblocker for all types of ads on all web pages, even on social media.
+   - $\color{Cerulean}{LanguageTool}$ : Grammar Checker & Paraphraser
+   - ${\color{Cerulean}Linguist}$ : Translate web pages, highlighted text, Netflix subtitles, private messages, speak text, and save important translations to your personal dictionary.
+
 - [Thunderbird](https://www.thunderbird.net) : 
 - [Free Download Manager](https://www.freedownloadmanager.org) : 
 - [qBittorrent](https://www.qbittorrent.org) : 
@@ -269,6 +276,7 @@
   - Python by Microsoft
   - Text Power Tools
   - Todo Tree
+
 - [APK Editor Studio](https://qwertycube.com/apk-editor-studio) : 
 - [.NET SDK](https://dotnet.microsoft.com) : 
 - [Boost](https://www.boost.org) : 
@@ -448,5 +456,4 @@ Your contributions are always welcome! :blush: If you want to contribute to this
 [nc]: imgs/nc.svg
 
 <!-- [/markdown references -->
-
 
