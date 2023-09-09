@@ -192,10 +192,10 @@
 - [Vivaldi](https://vivaldi.com) :
 
   #### Browser Addon: [*Firefox*](https://addons.mozilla.org/firefox/) / [*Chromium*](https://chrome.google.com/webstore/)
-   - $\color{Cerulean}{uBlock Origin}$ : It's not only an "ad blocker", it can also block a wide-spectrum content.
-   - $\color{Cerulean}{AdGuard AdBlocker}$ : An effective adblocker for all types of ads on all web pages, even on social media.
-   - $\color{Cerulean}{LanguageTool}$ : Grammar Checker & Paraphraser
-   - ${\color{Cerulean}Linguist}$ : Translate web pages, highlighted text, Netflix subtitles, private messages, speak text, and save important translations to your personal dictionary.
+   - [uBlock Origin](https://github.com/gorhill/uBlock) : It's not only an "ad blocker", it can also block a wide-spectrum content.
+   - [AdGuard AdBlocker](https://adguard.com/adguard-browser-extension/overview.html) : An effective adblocker for all types of ads on all web pages, even on social media.
+   - [LanguageTool](https://languagetool.org) : Grammar Checker & Paraphraser.
+   - [Linguist](https://github.com/translate-tools/linguist) : Translate web pages, highlighted text, Netflix subtitles, private messages, speak text, and save important translations to your personal dictionary.
 
 - [Thunderbird](https://www.thunderbird.net) : 
 - [Free Download Manager](https://www.freedownloadmanager.org) : 
