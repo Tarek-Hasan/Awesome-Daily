@@ -133,7 +133,7 @@
 
 - [Blender](https://www.blender.org) :  [![][repo]]()
 
-  #### Extensions  [*Blender Extensions*](https://extensions.blender.org)
+  #### Extensions:  [*Blender Extensions*](https://extensions.blender.org)
   - [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) :  [![][repo]]()
   - [BagaPie Modifier](https://abaga.gumroad.com/l/BbGVh) :  [![][repo]]()
   - [BlenRig](https://github.com/jpbouza/BlenRig) :  [![][repo]]()
@@ -184,6 +184,7 @@
   - [MeshLab](https://www.meshlab.net) :  [![][repo]]()
   - [Meshroom](https://alicevision.org/#meshroom) :  [![][repo]]()
   - [Papagayo-NG](https://morevnaproject.org/papagayo-ng) :  [![][repo]]()
+  - [PixelPlanets](https://deep-fold.itch.io/pixel-planet-generator) :  [![][repo]](https://github.com/Deep-Fold/PixelPlanets)
   - [PlantFactory](https://www.bentley.com/software/e-on-software-free-downloads/) :  
 
 
@@ -317,18 +318,19 @@
 
 ### Game Development
 
-- [Godot](https://godotengine.org) :  [![][repo]]()
-  - [Box2D Physics](https://github.com/appsinacup/godot-box2d) : 
-  - [Jolt Physics](https://github.com/godot-jolt/godot-jolt) : 
+- [Godot](https://godotengine.org) : Godot is a cross-platform, free and open-source game engine. It allows to build both 3D and 2D games using multiple programming languages, such as C++, C# and GDScript. [![][repo]](https://github.com/godotengine/godot)
+  - [Box2D Physics](https://github.com/appsinacup/godot-box2d) : Box2D physics server for Godot Engine. It functions as a drop-in replacement for Godot Physics.
+  - [Jolt Physics](https://github.com/godot-jolt/godot-jolt) : Godot Jolt is a GDExtension that allows you to use the Jolt physics engine to power Godot's 3D physics. It functions as a drop-in replacement for Godot Physics, by implementing the same nodes.
   - [Dialogic](https://dialogic.pro) : Godot plugin to make Dialogs, Visual Novels, RPGs, and manage Characters. [![][repo]](https://github.com/dialogic-godot/dialogic)
-  - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot3) : 
-  - [Orchestrator](https://orchestrator.vahera.com) :  [![][repo]](https://github.com/Vahera/godot-orchestrator)
-  - [Phantom Camera](https://phantom-camera.dev) :  [![][repo]]()
-  - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : 
-  - [Terrain3D](https://github.com/TokisanGames/Terrain3D) : 
-- [O3DE](https://www.o3de.org) :  [![][repo]]()
-- [LDtk](https://ldtk.io) :  [![][repo]]()
-- [Tiled](https://www.mapeditor.org) :  [![][repo]]()
+  - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot4) : Effekseer's plugin for Godot Engine.It will be able to show the effects that was created with Effekseer.
+  - [GodotSfxr](https://tomeyro.itch.io/godot-sfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor. [![][repo]](https://github.com/tomeyro/godot-sfxr)
+  - [Orchestrator](https://orchestrator.vahera.com) : Orchestrator is the ultimate Visual-Scripting solution designed for Godot 4.2+ platform. [![][repo]](https://github.com/Vahera/godot-orchestrator)
+  - [Phantom Camera](https://phantom-camera.dev) : Phantom Camera is a Godot plugin designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes - inspired by Cinemachine. [![][repo]](https://github.com/ramokz/phantom-camera)
+  - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : A tool for adding post-processing effects in Godot projects.
+  - [Terrain3D](https://github.com/TokisanGames/Terrain3D) : A high performance, editable terrain system for Godot.
+- [O3DE](https://www.o3de.org) : O3DE (Open 3D Engine) is an open-source, real-time, multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations. [![][repo]](https://github.com/o3de/o3de)
+- [LDtk](https://ldtk.io) : Level Designer Toolkit (LDtk) is a modern, efficient and open-source 2D level editor with a strong focus on user-friendliness. [![][repo]](https://github.com/deepnight/ldtk)
+- [Tiled](https://www.mapeditor.org) : Tiled is a general purpose tile map editor for all tile-based games. Tiled is highly flexible. It can be used to create maps of any size, with no restrictions on tile size, or the number of layers or tiles that can be used. Maps, layers, tiles, and objects can all be assigned arbitrary properties. [![][repo]](https://github.com/mapeditor/tiled)
 
 ### Web Development
 
