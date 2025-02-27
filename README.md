@@ -39,6 +39,7 @@
 
 ### x64
 
+  - [Bazzite](https://bazzite.gg) : Bazzite is a custom Fedora distro designed for Linux newcomers and enthusiasts alike with Steam pre-installed, HDR & VRR support, improved CPU schedulers for responsive gameplay, and numerous community-developed tools and tweaks to streamline gaming.
   - [openSUSE](https://www.opensuse.org) : The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution. It is aimed towards users and developers working on the desktop or server.
   - [openKylin](https://www.openkylin.top) : openKylin is an Ubuntu-based distribution. It features UKUI, a lightweight desktop environment. Its visual appearance is similar to modern Windows, making it easier for new users of Linux.
   - [TUXEDO OS](https://www.tuxedocomputers.com/os) : TUXEDO OS is an Ubuntu-based distribution developed in Germany by TUXEDO Computers GmbH. The distribution uses KDE Plasma as the preferred desktop.
@@ -48,6 +49,7 @@
 
   - [Armbian](https://www.armbian.com) : Armbian is a Linux distribution designed for ARM development boards. It is based on Debian or Ubuntu and it supports a wide variety of popular ARM-based devices.
   - [Manjaro](https://manjaro.org) : Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability.
+  - [postmarketOS](https://postmarketos.org) : postmarketOS is a Alpine Linux based distro to run on smartphones and other mobile devices.
 
 
 ## :shield: Security
@@ -76,8 +78,8 @@
 
 - [Ardour](https://ardour.org) : Ardour is an open source recorder and digital audio workstation application suitable for professional use. [![][repo]](https://github.com/Ardour/ardour)
 - [Audacity](https://www.audacityteam.org) : Audacity is the world's most popular open-source software for recording and editing audio. [![][repo]](https://github.com/audacity/audacity)
-- [Cardinal](https://github.com/DISTRHO/Cardinal) : Cardinal is a free and open-source virtual modular synthesizer app. It is based on the VCV Rack but with a focus on being a fully self-contained plugin version. [![][repo]](https://github.com/DISTRHO/Cardinal)
-- [Easy Effects](https://github.com/wwmm/easyeffects) : Easy Effects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
+- [Cardinal](https://cardinal.kx.studio) : Cardinal is a free and open-source virtual modular synthesizer app. It is based on the VCV Rack but with a focus on being a fully self-contained plugin version. [![][repo]](https://github.com/DISTRHO/Cardinal)
+- [EasyEffects](https://github.com/wwmm/easyeffects) : EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - [FxSound](https://www.fxsound.com) : FxSound is a high-fidelity digital audio processing program. It brings booming bass, crystal clear audio and high fidelity by optimizing music in real time. [![][repo]](https://github.com/fxsound2/fxsound-app)
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) : eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [HISE](https://hise.dev) : HISE is a open-source toolkit for building virtual instruments and audio effects. [![][repo]](https://github.com/christophhart/HISE)
@@ -134,24 +136,24 @@
 - [Blender](https://www.blender.org) :  [![][repo]]()
 
   #### Extensions:  [*Blender Extensions*](https://extensions.blender.org)
-  - [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) :  [![][repo]]()
-  - [BagaPie Modifier](https://abaga.gumroad.com/l/BbGVh) :  [![][repo]]()
+  - [Radeon ProRender](https://gpuopen.com/radeon-pro-render) :  [![][repo]]()
+  - [BagaPie](https://extensions.blender.org/add-ons/bagapie) : 
   - [BlenRig](https://github.com/jpbouza/BlenRig) :  [![][repo]]()
   - [Bone Widget](https://github.com/BlenderDefender/boneWidget) :  [![][repo]]()
   - [BY-GEN](https://curtisholt.online/by-gen) :  [![][repo]]()
   - [CharMorph](https://github.com/Upliner/CharMorph) :  [![][repo]]()
-  - [Layer Painter](https://github.com/joshuaKnauber/layer_painter) :  [![][repo]]()
+  - [MPFB](https://extensions.blender.org/add-ons/mpfb) :  [![][repo]](https://github.com/makehumancommunity/mpfb2)
   - [Papagayo-NG Importer](https://github.com/Hunanbean/Papagayo-NGLipsyncImporterForBlender) : 
   - [Rhubarb Lipsync](https://github.com/NickTiny/blender-rhubarb-2d-lipsync) :  [![][repo]]()
+  - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint) :  [![][repo]](https://github.com/ucupumar/ucupaint)
 
   - CAD
-    - [BlenderBIM](https://blenderbim.org) :  [![][repo]]()
-    - [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) :  [![][repo]]()
-    - [CAD Transform](https://blender-archipack.gumroad.com/l/nQVcS) :  [![][repo]]()
-    - [Sverchok](https://github.com/nortikin/sverchok) :  [![][repo]]()
+    - [Bonsai](https://extensions.blender.org/add-ons/bonsai) :  [![][repo]](https://github.com/ifcopenshell/ifcopenshell)
+    - [CAD Sketcher](https://www.cadsketcher.com) :  [![][repo]](https://github.com/hlorus/CAD_Sketcher)
+    - [Sverchok](https://nortikin.github.io/sverchok) :  [![][repo]](https://github.com/nortikin/sverchok)
 
   - Generators
-    - [3D Wolf Generators](https://3d-wolf.com/products/assets/generators) :  [![][repo]]()
+    - [Wolf Studio Generators](https://wolfstudio.io/assets) :  [![][repo]]()
     - [Buildify](https://paveloliva.gumroad.com/l/buildify) :  [![][repo]]()
     - [Offroad Rig Generator](https://blenderesse.gumroad.com/l/momhq) :  [![][repo]]()
     - [Stylized Fantasy Tree Generator](https://rc12.gumroad.com/l/fantasytree) :  [![][repo]]()
@@ -159,12 +161,12 @@
 - [GIMP](https://www.gimp.org) :  [![][repo]]()
   - [G'MIC](https://gmic.eu) :  [![][repo]]()
   - [GEGL Effects by LinuxBeaver](https://github.com/LinuxBeaver) : 
-  - [GIMP-ML](https://github.com/UserUnknownFactor/GIMP3-ML) :  [![][repo]]()
+  - [GIMP-ML](https://kritiksoman.github.io/GIMP-ML-Docs) :  [![][repo]](https://github.com/kritiksoman/GIMP-ML)
   - [Elsamuko Scripts](https://elsamuko.github.io/gimp-elsamuko/scripts.html) :  [![][repo]]()
   - [Karl Hofmeyr Scripts](https://github.com/karlhof26/gimp-scheme) : 
   - [Scripts by Paul Sherman](https://www.gimphelp.org) : 
   - [BIMP](https://alessandrofrancesconi.it/projects/bimp) :  [![][repo]]()
-- [Glaxnimate](https://glaxnimate.mattbas.org) :  [![][repo]]()
+- [Glaxnimate](https://glaxnimate.org) :  [![][repo]]()
 - [darktable](https://www.darktable.org) :  [![][repo]]()
 - [digiKam](https://www.digikam.org) :  [![][repo]]()
 - [Inkscape](https://inkscape.org) :  [![][repo]]()
@@ -172,8 +174,8 @@
   - [Isometric Projection](https://github.com/jdhoek/inkscape-isometric-projection) :  [![][repo]]()
   - [Shapes by Arakne](https://www.arakne.es/en/category/dessign/inkscape-en) :  [![][repo]]()
 - [Krita](https://krita.org) :  [![][repo]]()
-- [Penpot](https://penpot.app) :  [![][repo]]()
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) :  [![][repo]]()
+- [Penpot](https://penpot.app) :  [![][repo]](https://github.com/penpot/penpot)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) :  [![][repo]](https://github.com/Orama-Interactive/Pixelorama)
 
 ### Tools
 
@@ -185,7 +187,7 @@
   - [Meshroom](https://alicevision.org/#meshroom) :  [![][repo]]()
   - [Papagayo-NG](https://morevnaproject.org/papagayo-ng) :  [![][repo]]()
   - [PixelPlanets](https://deep-fold.itch.io/pixel-planet-generator) :  [![][repo]](https://github.com/Deep-Fold/PixelPlanets)
-  - [PlantFactory](https://www.bentley.com/software/e-on-software-free-downloads/) :  
+  - [Tree It](https://www.evolved-software.com/treeit/treeit) :  
 
 
 ## :clapper: Video Production
@@ -248,9 +250,9 @@
 ## :briefcase: Office
 
 - [LibreOffice](https://www.libreoffice.org) : LibreOffice is the most powerful office suite. It includes - Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (vector graphics and flowcharts), Base (databases), and Math (formula editing). [![][repo]](https://git.libreoffice.org/core)
+  - [WritingTool](https://extensions.libreoffice.org/en/extensions/show/99240) : Open source writing assistant designed for spelling, grammar and style checking and paraphrasing based on LanguageTool. [![][repo]](https://github.com/writingtool-org/writingtool)
 - [OnlyOffice](https://www.onlyoffice.com) : OnlyOffice consists of editors for text documents, spreadsheets, presentations, PDFs and forms. It has highest compatibility with Microsoft Office formats. [![][repo]](https://github.com/ONLYOFFICE/DesktopEditors)
 - [Scribus](https://www.scribus.net) : Scribus is free and open-source desktop publishing (DTP) software. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. [![][repo]](https://github.com/scribusproject/scribus)
-- [LanguageTool](https://languagetool.org) :  [![][repo]]()
 - [PeaZip](https://peazip.github.io) :  [![][repo]]()
 - [AnyBurn](https://anyburn.com) :  [![][repo]]()
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
@@ -259,9 +261,11 @@
 - [KDiff3](https://apps.kde.org/kdiff3) :  [![][repo]]()
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
 - [NAPS2](https://www.naps2.com) :  [![][repo]]()
+- [OctoPrint](https://octoprint.org) :  [![][repo]]()
 - [PDF24 Creator](https://tools.pdf24.org/en/creator) :  [![][repo]]()
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
-- [RapidTyping](https://rapidtyping.com) :  [![][repo]]()
+- [Stirling PDF](https://www.stirlingpdf.com) :  [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
+- [Typing Commander](https://typingcommander.com) :  [![][repo]](https://sourceforge.net/projects/typing-commander)
 - [Tellico](https://tellico-project.org) :  [![][repo]]()
 
 
@@ -269,8 +273,8 @@
 
 - [Al Quran](https://gtaf.org/apps/quran) : 
 - [Hadith Collection](https://gtaf.org/apps/hadith) : 
-- [Salaat Time](https://www.salaattime.com/salaat-time) :  [![][repo]]()
-- [Sally Prayer Times](https://sallyprayertimes.com) :  [![][repo]]()
+- [Azkar](https://azkar-site.web.app) :  [![][repo]](https://github.com/AbdelrahmanBayoumi/Azkar-App)
+- [Muezzin](https://github.com/DBChoco/Muezzin) : 
 
 
 ## :building_construction: Software Development
@@ -283,18 +287,32 @@
 - [VSCodium](https://vscodium.com) :  [![][repo]]()
 
   #### Extensions: [*Open VSX Registry*](https://open-vsx.org)
-  - C# by OmniSharp
-  - C,C++ by Microsoft
-  - CMake
+  - Black Formatter
+  - C# - NetCoreDbg
+  - C/C++
+  - clangd
+  - CMake IntelliSence
   - CMake Tools
   - Code Spell Checker
+  - Continue - qwen2.5-coder:1.5b
+  - Dart
+  - deadlock-detect
+  - Deno
   - Extension Pack for Java
+  - Flutter
   - GitLens
+  - HistoryDebug
   - IntelliCode
+  - isort
+  - Kylin Project Manager
+  - Kylin Python
+  - memleak-detect
+  - Meson
+  - Native Debug
   - NSIS
   - PWABuilder Studio
   - Pylint
-  - Python by Microsoft
+  - Tauri
   - Text Power Tools
   - Todo Tree
 
@@ -302,6 +320,8 @@
 - [.NET SDK](https://dotnet.microsoft.com) :  [![][repo]]()
 - [Boost](https://www.boost.org) :  [![][repo]]()
 - [CMake](https://cmake.org) :  [![][repo]]()
+- [Deno](https://deno.com) :  [![][repo]]()
+- [DevToys](https://devtoys.app) :  [![][repo]]()
 - [Dependencies](https://github.com/lucasg/Dependencies) :  [![][repo]]()
 - [Doxygen](https://www.doxygen.nl) :  [![][repo]]()
 - [Git](https://git-scm.com) :  [![][repo]]()
@@ -309,7 +329,6 @@
 - [LLVM/Clang](https://llvm.org) :  [![][repo]]()
 - [Meson](https://mesonbuild.com) :  [![][repo]]()
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
-- [Node.js](https://nodejs.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
 - [Python](https://www.python.org) :  [![][repo]]()
 - [QEMU](https://www.qemu.org) :  [![][repo]]()
@@ -319,15 +338,16 @@
 ### Game Development
 
 - [Godot](https://godotengine.org) : Godot is a cross-platform, free and open-source game engine. It allows to build both 3D and 2D games using multiple programming languages, such as C++, C# and GDScript. [![][repo]](https://github.com/godotengine/godot)
-  - [Box2D Physics](https://github.com/appsinacup/godot-box2d) : Box2D physics server for Godot Engine. It functions as a drop-in replacement for Godot Physics.
-  - [Jolt Physics](https://github.com/godot-jolt/godot-jolt) : Godot Jolt is a GDExtension that allows you to use the Jolt physics engine to power Godot's 3D physics. It functions as a drop-in replacement for Godot Physics, by implementing the same nodes.
+  - [Box2D Physics](https://github.com/Pizzaandy/godot-box2d-v3) : Box2D physics server for Godot Engine. It functions as a drop-in replacement for Godot Physics.
   - [Dialogic](https://dialogic.pro) : Godot plugin to make Dialogs, Visual Novels, RPGs, and manage Characters. [![][repo]](https://github.com/dialogic-godot/dialogic)
   - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot4) : Effekseer's plugin for Godot Engine.It will be able to show the effects that was created with Effekseer.
   - [GodotSfxr](https://tomeyro.itch.io/godot-sfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor. [![][repo]](https://github.com/tomeyro/godot-sfxr)
   - [Orchestrator](https://orchestrator.vahera.com) : Orchestrator is the ultimate Visual-Scripting solution designed for Godot 4.2+ platform. [![][repo]](https://github.com/Vahera/godot-orchestrator)
   - [Phantom Camera](https://phantom-camera.dev) : Phantom Camera is a Godot plugin designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes - inspired by Cinemachine. [![][repo]](https://github.com/ramokz/phantom-camera)
   - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : A tool for adding post-processing effects in Godot projects.
+  - [Sky3D](https://github.com/TokisanGames/Sky3D) : A dynamic day/night cycle for Godot Engine.
   - [Terrain3D](https://github.com/TokisanGames/Terrain3D) : A high performance, editable terrain system for Godot.
+  - [Tree3D](https://github.com/JekSun97/gdTree3D) : Plugin for procedural generation of 3D trees of varying complexity.
 - [O3DE](https://www.o3de.org) : O3DE (Open 3D Engine) is an open-source, real-time, multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations. [![][repo]](https://github.com/o3de/o3de)
 - [LDtk](https://ldtk.io) : Level Designer Toolkit (LDtk) is a modern, efficient and open-source 2D level editor with a strong focus on user-friendliness. [![][repo]](https://github.com/deepnight/ldtk)
 - [Tiled](https://www.mapeditor.org) : Tiled is a general purpose tile map editor for all tile-based games. Tiled is highly flexible. It can be used to create maps of any size, with no restrictions on tile size, or the number of layers or tiles that can be used. Maps, layers, tiles, and objects can all be assigned arbitrary properties. [![][repo]](https://github.com/mapeditor/tiled)
@@ -336,10 +356,10 @@
 
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer) :  [![][repo]]()
 - [Silex](https://www.silex.me) :  [![][repo]]()
-- [XAMPP ](https://www.apachefriends.org) :  [![][repo]]()
 - [Cockpit](https://cockpit-project.org) :  [![][repo]]()
 - [Discourse](https://www.discourse.org) :  [![][repo]]()
 - [Drupal](https://www.drupal.org) :  [![][repo]]()
+- [FlyEnv](https://www.flyenv.com) :  [![][repo]](https://github.com/xpf0000/FlyEnv)
 - [Podman Desktop](https://podman.io) :  [![][repo]]()
 - [PrestaShop](https://www.prestashop.com) :  [![][repo]]()
 - [WordPress](https://wordpress.org) :  [![][repo]]()
@@ -349,13 +369,14 @@
 
 - [.NET Desktop Runtime](https://dotnet.microsoft.com) :  [![][repo]]()
 - [Java Runtime](https://adoptium.net) :  [![][repo]]()
+- [ROCm](https://github.com/ROCm/ROCm) :  [![][repo]]()
 - [Ruffle](https://ruffle.rs) :  [![][repo]]()
+- [Visual C++ Redistributable AIO](https://github.com/abbodi1406/vcredist) : 
+- [Vulkan Runtime](https://vulkan.lunarg.com/sdk/home) : 
 - [WayDroid](https://github.com/waydroid/waydroid) :  [![][repo]]()
 - [Wine](https://github.com/Kron4ek/Wine-Builds) : 
   - [Bottles](https://usebottles.com) :  [![][repo]]()
   - [Hangover](https://github.com/AndreRH/hangover) : 
-- [Visual C++ Redistributable AIO](https://github.com/abbodi1406/vcredist) : 
-- [Vulkan Runtime](https://vulkan.lunarg.com/sdk/home) : 
 - [WSL](https://github.com/microsoft/WSL) : 
 - [ZLUDA](https://github.com/vosen/ZLUDA) : ZLUDA lets you run unmodified CUDA applications with near-native performance on AMD GPUs.
 
@@ -366,23 +387,26 @@
   - [ScreenStyler](https://screenstyler.com) :  [![][repo]]()
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) :  [![][repo]]()
 - [Attribute Changer](https://www.petges.lu) :  [![][repo]]()
-- [Czkawka](https://github.com/qarmin/czkawka) :  [![][repo]]()
+- [Czkawka](https://github.com/qarmin/czkawka) : 
 - [ExifToolGui](https://github.com/FrankBijnen/ExifToolGui) : 
 - [Gramps](https://gramps-project.org) :  [![][repo]]()
 - [Szyszka](https://github.com/qarmin/szyszka) : 
 - [LockHunter](https://lockhunter.com) :  [![][repo]]()
+- [UniGetUI](https://www.marticliment.com/unigetui) :  [![][repo]](https://github.com/marticliment/UniGetUI)
 - [Universal Extractor](https://github.com/Bioruebe/UniExtract2) :  [![][repo]]()
 - [Ventoy](https://www.ventoy.net) :  [![][repo]]()
-- [WingetUI](https://github.com/martinet101/WingetUI) :  [![][repo]]()
 
 ### Icon Theme
 
-- [Adwaita](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) : 
+- [Delta Icons](https://github.com/Delta-Icons/linux) :
+- [Flatery](https://github.com/cbrnix/Flatery) :  
 - [Fluent](https://github.com/vinceliuice/Fluent-icon-theme) : 
-- [MoreWaita](https://github.com/somepaulo/MoreWaita) : 
+- [Marwaita Icons](https://github.com/darkomarko42/Marwaita-Icons) : 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) : 
+- [Rowaita Icons](https://github.com/4e6anenk0/Rowaita-icon-theme) : 
+- [Vimix](https://github.com/vinceliuice/Vimix-icon-theme) : 
 - [Waterleaf](https://github.com/jaerrib/waterleaf-icon-theme) : 
-- [Yaru](https://github.com/ubuntu/yaru) : 
+- [YaruPlasma](https://github.com/zayronxio/yaru-unity-for-KDE) : 
 
 ### System Utility
 
@@ -391,9 +415,9 @@
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) :  [![][repo]]()
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) :  [![][repo]]()
 - [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu) :  [![][repo]]()
-- [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) :  [![][repo]]()
+- [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) : 
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
-- [TUXEDO Control Center](https://github.com/tuxedocomputers/tuxedo-control-center) :  [![][repo]]()
+- [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) :  [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
 
 
 ## :man_technologist: Hacking & Forensics Tools
@@ -405,7 +429,7 @@
 - [OONI](https://ooni.org) :  [![][repo]]()
 - [OSV-Scanner](https://github.com/google/osv-scanner) :  [![][repo]]()
 - [PE-bear](https://github.com/hasherezade/pe-bear) :  [![][repo]]()
-- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals) :  [![][repo]]()
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals) : 
 - [TinyCheck](https://github.com/KasperskyLab/tinycheck) :  [![][repo]]()
 
 
@@ -423,7 +447,7 @@ Only open source games are allowed.
 - [Rigs of Rods](https://www.rigsofrods.org) :  [![][repo]]()
 - [Ryzom](https://ryzom.com) :  [![][repo]]()
 - [Sintel](https://github.com/jonburesh/sintelgame) :  [![][repo]]()
-- [StuntRally](https://stuntrally.tuxfamily.org) :  [![][repo]]()
+- [StuntRally](https://cryham.org/stuntrally) :  [![][repo]](https://github.com/stuntrally/stuntrally3)
 - [SuperTuxKart](https://supertuxkart.net) :  [![][repo]]()
 - [The Dark Mod](https://www.thedarkmod.com) :  [![][repo]]()
   - [Missions](https://www.thedarkmod.com/missions) :  [![][repo]]()
@@ -436,25 +460,32 @@ Only open source games are allowed.
 
 ### Mini Games
 
+- [Doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) : Cave Story
 - [gbrainy](https://wiki.gnome.org/Apps/gbrainy) :  [![][repo]]()
 - [GCompris](https://gcompris.net) :  [![][repo]]()
 - [King Arthur's Gold](https://kag2d.com) :  [![][repo]]()
 - [Neverball](https://neverball.org) :  [![][repo]]()
 - [Ninslash](https://ninslash.com) :  [![][repo]]()
-- [NXEngine Evo](https://github.com/nxengine/nxengine-evo) : Cave Story
 - [OpenClonk](https://www.openclonk.org) :  [![][repo]]()
 - [OpenSoldat](https://github.com/opensoldat/opensoldat) :  [![][repo]]()
 - [Super Cat Wars](https://gamejolt.com/games/supercatwars/627452) :  [![][repo]]()
-- [Super Mario Bros. X2](https://codehaus.moe) :  [![][repo]]()
-- [Super Mario War](https://github.com/mmatyas/supermariowar) :  [![][repo]]()
+- [Super Mario Bros. X2](https://codehaus.moe) : 
+
+  #### Addons: [SMBX Forums](https://www.smbxgame.com/forums/viewforum.php?f=101)
+  - Battle Arena
+  - NPC/Block Extension Pack
+  - The Conquest
+  - The Rip Lair's Powerup Pack
+
 - [SuperTux](https://www.supertux.org) :  [![][repo]]()
+- [TheXTech](https://wohlsoft.ru/projects/TheXTech) : TheXTech is a open-source game engine for Mario-like platforming games. This is a cross-platform port of the Super Mario Bros. X 1.3 (SMBX) game engine. [![][repo]](https://github.com/TheXTech/TheXTech)
 - [VASSAL](https://vassalengine.org) :  [![][repo]]()
 
 ### Emulator
 
 - [RetroArch](http://www.retroarch.com) :  [![][repo]]()
-  - [Cores](http://buildbot.libretro.com/nightly) :  [![][repo]]()
-  - [ROMs](https://archive.org/details/mame-merged) :  [![][repo]]()
+  - [Cores](http://buildbot.libretro.com/nightly) : 
+  - [ROMs](https://archive.org/details/mame-merged) : 
 
 ### Tools
 
