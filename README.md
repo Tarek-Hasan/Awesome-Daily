@@ -10,7 +10,7 @@
 - [:shield: Security](#shield-security)
 - [:recycle: Backup \& Recovery](#recycle-backup--recovery)
 - [:headphones: Audio Production](#headphones-audio-production)
-  - [Audio Plugins](#audio-plugins)
+  - [Audio Plugins](#electric_plug-audio-plugins)
 - [:triangular\_ruler: CAD](#triangular_ruler-cad)
 - [:abacus: Data Analysis \& ERP](#abacus-data-analysis--erp)
 - [:sparkles: Graphics Editor](#sparkles-graphics-editor)
@@ -90,7 +90,7 @@
 - [Sonic Visualiser](https://sonicvisualiser.org) : Sonic Visualiser is an application for viewing and analysing the contents of music audio files. [![][repo]](https://github.com/sonic-visualiser/sonic-visualiser)
   - [aubio](https://aubio.org) : aubio is a tool designed for the extraction of annotations from audio signals.
 
-### Audio Plugins
+### :electric_plug: Audio Plugins
 
   - [amsynth](https://amsynth.github.io) : amsynth is an easy-to-use software synth with a classic subtractive synthesizer topology (Analog Modelling). [![][repo]](https://github.com/amsynth/amsynth)
   - [Calf Studio Gear](https://calf-studio-gear.org) : Calf Studio Gear is an audio plug-in pack for LINUX OSes. The suite contains lots of effects (delay, modulation, signal processing, filters, equalizers, dynamics, distortion and mastering effects), instruments (SF2 player, organ simulator and a monophonic synthesizer) and tools (analyzer, mono/stereo tools, crossovers). [![][repo]](https://github.com/calf-studio-gear/calf)
@@ -135,7 +135,7 @@
 
 - [Blender](https://www.blender.org) :  [![][repo]]()
 
-  #### Extensions:  [*Blender Extensions*](https://extensions.blender.org)
+  #### :jigsaw: Extensions:  [*Blender Extensions*](https://extensions.blender.org)
   - [Radeon ProRender](https://gpuopen.com/radeon-pro-render) :  [![][repo]]()
   - [BagaPie](https://extensions.blender.org/add-ons/bagapie) : 
   - [BlenRig](https://github.com/jpbouza/BlenRig) :  [![][repo]]()
@@ -209,7 +209,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/) :  [![][repo]]()
 - [Thorium](https://thorium.rocks) :  [![][repo]]()
 
-  #### Browser Addon: [*Firefox Add-ons*](https://addons.mozilla.org/firefox/) / [*Chrome Web Store*](https://chrome.google.com/webstore/)
+  #### :jigsaw: Browser Addon: [*Firefox Add-ons*](https://addons.mozilla.org/firefox/) / [*Chrome Web Store*](https://chrome.google.com/webstore/)
    - [uBlock Origin](https://github.com/gorhill/uBlock) : It's not only an "ad blocker", it can also block a wide-spectrum content.
    - [AdGuard AdBlocker](https://adguard.com/adguard-browser-extension/overview.html) : An effective adblocker for all types of ads on all web pages, even on social media.
    - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) : This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet.
@@ -286,7 +286,7 @@
 - [Tauri](https://tauri.app) :  [![][repo]]()
 - [VSCodium](https://vscodium.com) :  [![][repo]]()
 
-  #### Extensions: [*Open VSX Registry*](https://open-vsx.org)
+  #### :jigsaw: Extensions: [*Open VSX Registry*](https://open-vsx.org)
   - Black Formatter
   - C# - NetCoreDbg
   - C/C++
@@ -471,7 +471,7 @@ Only open source games are allowed.
 - [Super Cat Wars](https://gamejolt.com/games/supercatwars/627452) :  [![][repo]]()
 - [Super Mario Bros. X2](https://codehaus.moe) : 
 
-  #### Addons: [SMBX Forums](https://www.smbxgame.com/forums/viewforum.php?f=101)
+  #### :jigsaw: Addons: [SMBX Forums](https://www.smbxgame.com/forums/viewforum.php?f=101)
   - Battle Arena
   - NPC/Block Extension Pack
   - The Conquest
