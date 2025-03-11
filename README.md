@@ -88,7 +88,7 @@
 - [MusicBrainz Picard](https://picard.musicbrainz.org) : Picard is a cross-platform music tagger powered by the MusicBrainz database. It is capable of using audio fingerprints (AcoustIDs), performing CD lookups and disc ID submissions [![][repo]](https://github.com/metabrainz/picard)
 - [Speech Note](https://github.com/mkiol/dsnote) : Speech Note is an app for note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [Sonic Visualiser](https://sonicvisualiser.org) : Sonic Visualiser is an application for viewing and analysing the contents of music audio files. [![][repo]](https://github.com/sonic-visualiser/sonic-visualiser)
-  - [aubio](https://aubio.org) : aubio is a tool designed for the extraction of annotations from audio signals.
+  - [Vamp Plugin Pack](https://www.vamp-plugins.org/pack.html) : A set of open-source vamp plugins. [![][repo]](https://github.com/vamp-plugins/vamp-plugin-pack)
 
 ### :electric_plug: Audio Plugins
 
