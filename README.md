@@ -99,12 +99,13 @@
   - [guitarix](https://guitarix.org) : guitarix is a virtual guitar amplifier for Linux. [![][repo]](https://github.com/brummer10/guitarix)
   - [Linux Studio Plugins](https://lsp-plug.in) : LSP (Linux Studio Plugins) is a collection of open-source plugins for Linux platform. [![][repo]](https://github.com/lsp-plugins/lsp-plugins)
   - [master-me](https://github.com/trummerschlunk/master_me) : Automatic audio mastering plugin for live-streaming and internet radio stations.
+  - [Monique](https://surge-synth-team.org/monique) : Monique is a monophonic bass and lead synthesizer. [![][repo]](https://github.com/surge-synthesizer/monique-monosynth)
   - [Odin](https://www.thewavewarden.com/odin2) : Odin 2 is a mighty semimodular subtractive synthesizer plugin. [![][repo]](https://github.com/TheWaveWarden/odin2)
   - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) : Shortcircuit is a creative sampler.
   - [Stochas](https://stochas.org) : A Open-source advanced probabilistic polyrhythmic sequencer plugin. [![][repo]](https://github.com/surge-synthesizer/stochas)
   - [Surge XT](https://surge-synthesizer.github.io) : Surge XT is a versatile hybrid virtual synthesizer. [![][repo]](https://github.com/surge-synthesizer/surge)
   - [Vaporizer2](https://www.vast-dynamics.com/?q=Vaporizer2) : Vaporizer 2 is a hybrid wavetable additive / subtractive synthesizer / sampler workstation. [![][repo]](https://github.com/VASTDynamics/Vaporizer2)
-  - [Vitalium](https://kx.studio/Repositories:Plugins) : A fork of Vital; a spectral warping wavetable synthesizer. [![][repo]](https://github.com/DISTRHO/DISTRHO-Ports)
+  - [Vital](https://vital.audio) : Vital is a spectral warping wavetable synthesizer. [![][repo]](https://github.com/mtytel/vital)
   - [x42 Plugins](https://x42-plugins.com/x42) : A collection of professional audio processing plugins. [![][repo]](https://github.com/x42)
   - [ZynAddSubFX](https://zynaddsubfx.sourceforge.io) : ZynAddSubFX is a fully featured open source software synthesizer capable of making a countless number of instruments. [![][repo]](https://github.com/zynaddsubfx/zynaddsubfx)
 
@@ -161,11 +162,11 @@
 - [GIMP](https://www.gimp.org) :  [![][repo]]()
   - [G'MIC](https://gmic.eu) :  [![][repo]]()
   - [GEGL Effects by LinuxBeaver](https://github.com/LinuxBeaver) : 
+  - [Batcher](https://kamilburda.github.io/batcher) :  [![][repo]](https://github.com/kamilburda/batcher)
   - [GIMP-ML](https://kritiksoman.github.io/GIMP-ML-Docs) :  [![][repo]](https://github.com/kritiksoman/GIMP-ML)
   - [Elsamuko Scripts](https://elsamuko.github.io/gimp-elsamuko/scripts.html) :  [![][repo]]()
   - [Karl Hofmeyr Scripts](https://github.com/karlhof26/gimp-scheme) : 
   - [Scripts by Paul Sherman](https://www.gimphelp.org) : 
-  - [BIMP](https://alessandrofrancesconi.it/projects/bimp) :  [![][repo]]()
 - [Glaxnimate](https://glaxnimate.org) :  [![][repo]]()
 - [darktable](https://www.darktable.org) :  [![][repo]]()
 - [digiKam](https://www.digikam.org) :  [![][repo]]()
@@ -341,7 +342,8 @@
   - [Box2D Physics](https://github.com/Pizzaandy/godot-box2d-v3) : Box2D physics server for Godot Engine. It functions as a drop-in replacement for Godot Physics.
   - [Dialogic](https://dialogic.pro) : Godot plugin to make Dialogs, Visual Novels, RPGs, and manage Characters. [![][repo]](https://github.com/dialogic-godot/dialogic)
   - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot4) : Effekseer's plugin for Godot Engine.It will be able to show the effects that was created with Effekseer.
-  - [GodotSfxr](https://tomeyro.itch.io/godot-sfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor. [![][repo]](https://github.com/tomeyro/godot-sfxr)
+  - [GDfxr](https://github.com/timothyqiu/gdfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.
+  - [Godot LDtk Importer](https://github.com/heygleeson/godot-ldtk-importer) : LDTK Importer for Godot 4.
   - [Orchestrator](https://orchestrator.vahera.com) : Orchestrator is the ultimate Visual-Scripting solution designed for Godot 4.2+ platform. [![][repo]](https://github.com/Vahera/godot-orchestrator)
   - [Phantom Camera](https://phantom-camera.dev) : Phantom Camera is a Godot plugin designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes - inspired by Cinemachine. [![][repo]](https://github.com/ramokz/phantom-camera)
   - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : A tool for adding post-processing effects in Godot projects.
