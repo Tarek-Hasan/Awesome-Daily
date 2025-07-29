@@ -54,7 +54,7 @@
 
 ## :shield: Security
 
-- [ClamTk](https://gitlab.com/dave_m/clamtk/wikis/Home) : ClamTk is a graphical front-end for ClamAV. It is designed to be an easy-to-use, lightweight, on-demand antivirus scanner for Linux systems.
+- [ClamAV Desktop](https://github.com/ivangabriele/clamav-desktop) : ClamAV Desktop is a graphical front-end for ClamAV. It is designed to be an easy-to-use, lightweight, on-demand antivirus scanner for Linux systems.
 - [Kaspersky Virus Removal Tool](https://support.kaspersky.com/kvrt2020) : A free tool that scans and disinfects Windows and Linux computers.
 - [Tron](https://old.reddit.com/r/TronScript/) : Tron is a glorified collection of batch files that automate the process of cleaning up and disinfecting Windows machines. [![][repo]](https://github.com/bmrf/tron)
 - [OPNsense](https://opnsense.org): OPNsense is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform. [![][repo]](https://github.com/opnsense)
@@ -101,6 +101,7 @@
   - [master-me](https://github.com/trummerschlunk/master_me) : Automatic audio mastering plugin for live-streaming and internet radio stations.
   - [Monique](https://surge-synth-team.org/monique) : Monique is a monophonic bass and lead synthesizer. [![][repo]](https://github.com/surge-synthesizer/monique-monosynth)
   - [Odin](https://www.thewavewarden.com/odin2) : Odin 2 is a mighty semimodular subtractive synthesizer plugin. [![][repo]](https://github.com/TheWaveWarden/odin2)
+  - [PodcastPlugins](https://github.com/trummerschlunk/PodcastPlugins) : Podcast Plugins are easy-to-use plugins for speech enhancement, specifically designed for podcasters.
   - [Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt) : Shortcircuit is a creative sampler.
   - [Stochas](https://stochas.org) : A Open-source advanced probabilistic polyrhythmic sequencer plugin. [![][repo]](https://github.com/surge-synthesizer/stochas)
   - [Surge XT](https://surge-synthesizer.github.io) : Surge XT is a versatile hybrid virtual synthesizer. [![][repo]](https://github.com/surge-synthesizer/surge)
@@ -195,6 +196,7 @@
 
 - [Kdenlive](https://kdenlive.org) :  [![][repo]]()
 - [Natron](https://natrongithub.github.io) :  [![][repo]]()
+- [cameractrls](https://github.com/soyersoyer/cameractrls) :  [![][repo]]()
 - [digiCamControl](http://digicamcontrol.com) :  [![][repo]]()
 - [OBS Studio](https://obsproject.com) :  [![][repo]]()
 - [Astrofox](https://astrofox.io) :  [![][repo]]()
@@ -290,7 +292,7 @@
   #### :jigsaw: Extensions: [*Open VSX Registry*](https://open-vsx.org)
   - Black Formatter
   - C# - NetCoreDbg
-  - C/C++
+  - C/C++ Debug
   - clangd
   - CMake IntelliSence
   - CMake Tools
@@ -412,12 +414,10 @@
 
 ### System Utility
 
-- [AtlasOS](https://atlasos.net) :  [![][repo]]()
 - [HWiNFO](https://www.hwinfo.com) :  [![][repo]]()
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) :  [![][repo]]()
-- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) :  [![][repo]]()
-- [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu) :  [![][repo]]()
 - [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) : 
+- [Glow](https://www.turkaysoftware.com/glow) :  [![][repo]](https://github.com/turkaysoftware/glow)
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
 - [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) :  [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
 
@@ -428,6 +428,8 @@
 - [Tsurugi Linux](https://tsurugi-linux.org) : 
 - [Autopsy](https://www.autopsy.com) :  [![][repo]]()
 - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) :  [![][repo]]()
+- [HexWalk](https://github.com/gcarmix/HexWalk) : 
+- [ImHex](https://github.com/WerWolv/ImHex) : 
 - [OONI](https://ooni.org) :  [![][repo]]()
 - [OSV-Scanner](https://github.com/google/osv-scanner) :  [![][repo]]()
 - [PE-bear](https://github.com/hasherezade/pe-bear) :  [![][repo]]()
