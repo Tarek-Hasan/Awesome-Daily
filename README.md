@@ -160,22 +160,25 @@
     - [Offroad Rig Generator](https://blenderesse.gumroad.com/l/momhq) :  [![][repo]]()
     - [Stylized Fantasy Tree Generator](https://rc12.gumroad.com/l/fantasytree) :  [![][repo]]()
 
+- [Affinity Studio](https://www.affinity.studio) : Affinity is a professional graphics editor suite, which is a simultaneously a vector graphics editor, a raster graphics editor and a desktop publishing application. Supported file formats include Adobe Photoshop, InDesign and Illustrator files, PDF, SVG, and TIFF. *[Note: Online account required]*
+  - [G'MIC-8bf](https://github.com/0xC0000054/gmic-8bf) : An 8bf filter plug-in that interacts with G'MIC-Qt. G'MIC contains over 600 filter effects.
+- [darktable](https://www.darktable.org) :  [![][repo]]()
+- [digiKam](https://www.digikam.org) :  [![][repo]]()
 - [GIMP](https://www.gimp.org) :  [![][repo]]()
-  - [G'MIC](https://gmic.eu) :  [![][repo]]()
-  - [GEGL Effects by LinuxBeaver](https://github.com/LinuxBeaver) : 
+  - [G'MIC](https://gmic.eu) : G'MIC is a full-featured open-source framework for digital image processing. It contains a substantial set of pre-defined image processing algorithms and pipelines (more than 1000). More than 600 filters are already available, sorted by category (Artistic, Black & white, Colors, Contours, Deformations, Degradations, Details, Color Grading, Frames, Layers, Light & shadows, Patterns, Rendering, Repair, Sequences, etc.). [![][repo]](https://github.com/GreycLab/gmic)
+  - [GEGL Effects by LinuxBeaver](https://github.com/LinuxBeaver) : A collection of 120 GEGL plugins for GIMP. These allow GIMP to have access to all sorts of cool text styling effects. It will turn your plain text into fancy graphical text styles.
   - [Batcher](https://kamilburda.github.io/batcher) :  [![][repo]](https://github.com/kamilburda/batcher)
   - [GIMP-ML](https://kritiksoman.github.io/GIMP-ML-Docs) :  [![][repo]](https://github.com/kritiksoman/GIMP-ML)
   - [Elsamuko Scripts](https://elsamuko.github.io/gimp-elsamuko/scripts.html) :  [![][repo]]()
   - [Karl Hofmeyr Scripts](https://github.com/karlhof26/gimp-scheme) : 
   - [Scripts by Paul Sherman](https://www.gimphelp.org) : 
-- [Glaxnimate](https://glaxnimate.org) :  [![][repo]]()
-- [darktable](https://www.darktable.org) :  [![][repo]]()
-- [digiKam](https://www.digikam.org) :  [![][repo]]()
+- [Glaxnimate](https://glaxnimate.org) :  [![][repo]](https://invent.kde.org/graphics/glaxnimate)
 - [Inkscape](https://inkscape.org) :  [![][repo]]()
   - [Ink/Stitch](https://inkstitch.org) :  [![][repo]]()
   - [Isometric Projection](https://github.com/jdhoek/inkscape-isometric-projection) :  [![][repo]]()
   - [Shapes by Arakne](https://www.arakne.es/en/category/dessign/inkscape-en) :  [![][repo]]()
-- [Krita](https://krita.org) :  [![][repo]]()
+- [Krita](https://krita.org) : Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. [![][repo]](https://invent.kde.org/graphics/krita)
+- [Mesh2Motion](https://mesh2motion.org) : Import a 3D Model and automatically assign and export animations with Mesh2Motion. This is kind of similar to Mixamo, but is more flexible so it can support other model and skeleton types. [![][repo]](https://github.com/scottpetrovic/mesh2motion-app)
 - [Penpot](https://penpot.app) :  [![][repo]](https://github.com/penpot/penpot)
 - [Pixelorama](https://orama-interactive.itch.io/pixelorama) :  [![][repo]](https://github.com/Orama-Interactive/Pixelorama)
 
@@ -194,14 +197,15 @@
 
 ## :clapper: Video Production
 
-- [Kdenlive](https://kdenlive.org) :  [![][repo]]()
-- [Natron](https://natrongithub.github.io) :  [![][repo]]()
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) : DaVinci Resolve is a professional Post Production solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool. Supports Mac, Windows and Linux. *[Note: Online account required]*
+- [Astrofox](https://astrofox.io) :  [![][repo]]()
 - [cameractrls](https://github.com/soyersoyer/cameractrls) :  [![][repo]]()
 - [digiCamControl](http://digicamcontrol.com) :  [![][repo]]()
-- [OBS Studio](https://obsproject.com) :  [![][repo]]()
-- [Astrofox](https://astrofox.io) :  [![][repo]]()
 - [HandBrake](https://handbrake.fr) :  [![][repo]]()
+- [Kdenlive](https://kdenlive.org) :  [![][repo]]()
 - [MKVToolNix](https://mkvtoolnix.download) :  [![][repo]]()
+- [Natron](https://natrongithub.github.io) :  [![][repo]]()
+- [OBS Studio](https://obsproject.com) :  [![][repo]]()
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) :  [![][repo]]()
 - [Upscayl](https://github.com/upscayl/upscayl) :  [![][repo]]()
 - [Waifu2x Extension](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) :  [![][repo]]()
@@ -265,7 +269,7 @@
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
 - [NAPS2](https://www.naps2.com) :  [![][repo]]()
 - [OctoPrint](https://octoprint.org) :  [![][repo]]()
-- [PDF24 Creator](https://tools.pdf24.org/en/creator) :  [![][repo]]()
+- [PDF4QT](https://jakubmelka.github.io) :  [![][repo]](https://github.com/JakubMelka/PDF4QT)
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
 - [Stirling PDF](https://www.stirlingpdf.com) :  [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
 - [Typing Commander](https://typingcommander.com) :  [![][repo]](https://sourceforge.net/projects/typing-commander)
@@ -290,6 +294,7 @@
 - [VSCodium](https://vscodium.com) :  [![][repo]]()
 
   #### :jigsaw: Extensions: [*Open VSX Registry*](https://open-vsx.org)
+  - AI Models - qwen2.5-coder:1.5b
   - Black Formatter
   - C# - NetCoreDbg
   - C/C++ Debug
@@ -297,7 +302,6 @@
   - CMake IntelliSence
   - CMake Tools
   - Code Spell Checker
-  - Continue - qwen2.5-coder:1.5b
   - Dart
   - deadlock-detect
   - Deno
@@ -346,13 +350,13 @@
   - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot4) : Effekseer's plugin for Godot Engine.It will be able to show the effects that was created with Effekseer.
   - [GDfxr](https://github.com/timothyqiu/gdfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.
   - [Godot LDtk Importer](https://github.com/heygleeson/godot-ldtk-importer) : LDTK Importer for Godot 4.
+  - [LimboAI](https://github.com/limbonaut/limboai) : LimboAI is an open-source C++ plugin for Godot Engine 4 providing a combination of Behavior Trees and State Machines, which can be used together to create complex AI behaviors.
   - [Orchestrator](https://orchestrator.vahera.com) : Orchestrator is the ultimate Visual-Scripting solution designed for Godot 4.2+ platform. [![][repo]](https://github.com/Vahera/godot-orchestrator)
   - [Phantom Camera](https://phantom-camera.dev) : Phantom Camera is a Godot plugin designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes - inspired by Cinemachine. [![][repo]](https://github.com/ramokz/phantom-camera)
   - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : A tool for adding post-processing effects in Godot projects.
   - [Sky3D](https://github.com/TokisanGames/Sky3D) : A dynamic day/night cycle for Godot Engine.
   - [Terrain3D](https://github.com/TokisanGames/Terrain3D) : A high performance, editable terrain system for Godot.
   - [Tree3D](https://github.com/JekSun97/gdTree3D) : Plugin for procedural generation of 3D trees of varying complexity.
-- [O3DE](https://www.o3de.org) : O3DE (Open 3D Engine) is an open-source, real-time, multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations. [![][repo]](https://github.com/o3de/o3de)
 - [LDtk](https://ldtk.io) : Level Designer Toolkit (LDtk) is a modern, efficient and open-source 2D level editor with a strong focus on user-friendliness. [![][repo]](https://github.com/deepnight/ldtk)
 - [Tiled](https://www.mapeditor.org) : Tiled is a general purpose tile map editor for all tile-based games. Tiled is highly flexible. It can be used to create maps of any size, with no restrictions on tile size, or the number of layers or tiles that can be used. Maps, layers, tiles, and objects can all be assigned arbitrary properties. [![][repo]](https://github.com/mapeditor/tiled)
 
