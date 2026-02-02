@@ -82,7 +82,6 @@
 - [EasyEffects](https://github.com/wwmm/easyeffects) : EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - [FxSound](https://www.fxsound.com) : FxSound is a high-fidelity digital audio processing program. It brings booming bass, crystal clear audio and high fidelity by optimizing music in real time. [![][repo]](https://github.com/fxsound2/fxsound-app)
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) : eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
-- [HISE](https://hise.dev) : HISE is a open-source toolkit for building virtual instruments and audio effects. [![][repo]](https://github.com/christophhart/HISE)
 - [LMMS](https://lmms.io) : LMMS (Linux MultiMedia Studio) is a digital audio workstation software. It is a sound generation system, synthesizer, beat/bassline editor and MIDI control system that can power an entire home music studio. [![][repo]](https://github.com/LMMS/lmms)
 - [Mixxx](https://www.mixxx.org) : Mixxx is a DJ Automation and digital DJ performance application. It can be controlled with MIDI and HID controllers and timecode vinyl records in addition to computer keyboards and mice. [![][repo]](https://github.com/mixxxdj/mixxx)
 - [MusicBrainz Picard](https://picard.musicbrainz.org) : Picard is a cross-platform music tagger powered by the MusicBrainz database. It is capable of using audio fingerprints (AcoustIDs), performing CD lookups and disc ID submissions [![][repo]](https://github.com/metabrainz/picard)
@@ -260,15 +259,16 @@
   - [WritingTool](https://extensions.libreoffice.org/en/extensions/show/99240) : Open source writing assistant designed for spelling, grammar and style checking and paraphrasing based on LanguageTool. [![][repo]](https://github.com/writingtool-org/writingtool)
 - [OnlyOffice](https://www.onlyoffice.com) : OnlyOffice consists of editors for text documents, spreadsheets, presentations, PDFs and forms. It has highest compatibility with Microsoft Office formats. [![][repo]](https://github.com/ONLYOFFICE/DesktopEditors)
 - [Scribus](https://www.scribus.net) : Scribus is free and open-source desktop publishing (DTP) software. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. [![][repo]](https://github.com/scribusproject/scribus)
-- [PeaZip](https://peazip.github.io) :  [![][repo]]()
-- [AnyBurn](https://anyburn.com) :  [![][repo]]()
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
-- [OpenBangla Keyboard](https://openbangla.github.io) :  [![][repo]]()
-- [GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng) : 
+- [Bambu Suite](https://bambulab.com/en/download/suite) : Bambu Suite is an intuitive and powerful software that supports laser cutting, blade cutting, pen drawing and so much more. From design and layout to final production, the entire process is seamlessly integrated into a single workflow. [![][repo]](https://github.com/bambulab/BambuStudio)
+- [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
+- [ISO Master](https://littlesvr.ca/isomaster/) : ISO Master is an open-source, easy to use, graphical ISO image editor for Linux and BSD. [![][repo]](https://github.com/rizalmart/isomaster3)
 - [KDiff3](https://apps.kde.org/kdiff3) :  [![][repo]]()
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
 - [NAPS2](https://www.naps2.com) :  [![][repo]]()
-- [OctoPrint](https://octoprint.org) :  [![][repo]]()
+- [OpenBangla Keyboard](https://openbangla.github.io) :  [![][repo]]()
+- [OrcaSlicer](https://www.orcaslicer.com) : an open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
+- [PeaZip](https://peazip.github.io) :  [![][repo]]()
 - [PDF4QT](https://jakubmelka.github.io) :  [![][repo]](https://github.com/JakubMelka/PDF4QT)
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
 - [Stirling PDF](https://www.stirlingpdf.com) :  [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
@@ -423,6 +423,7 @@
 - [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) : 
 - [Glow](https://www.turkaysoftware.com/glow) :  [![][repo]](https://github.com/turkaysoftware/glow)
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
+- [System Informer](https://systeminformer.sourceforge.io) :  [![][repo]](https://github.com/winsiderss/systeminformer)
 - [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) :  [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
 
 
@@ -437,7 +438,6 @@
 - [OONI](https://ooni.org) :  [![][repo]]()
 - [OSV-Scanner](https://github.com/google/osv-scanner) :  [![][repo]]()
 - [PE-bear](https://github.com/hasherezade/pe-bear) :  [![][repo]]()
-- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals) : 
 - [TinyCheck](https://github.com/KasperskyLab/tinycheck) :  [![][repo]]()
 
 
