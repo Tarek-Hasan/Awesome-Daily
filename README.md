@@ -11,7 +11,7 @@
 - [:recycle: Backup \& Recovery](#recycle-backup--recovery)
 - [:headphones: Audio Production](#headphones-audio-production)
   - [Audio Plugins](#electric_plug-audio-plugins)
-- [:triangular\_ruler: CAD](#triangular_ruler-cad)
+- [:triangular\_ruler: CAx (CAD, CAM, BIM, etc)](#triangular_ruler-cax-cad-cam-bim-etc)
 - [:abacus: Data Analysis \& ERP](#abacus-data-analysis--erp)
 - [:sparkles: Graphics Editor](#sparkles-graphics-editor)
   - [Tools](#tools)
@@ -110,12 +110,19 @@
   - [ZynAddSubFX](https://zynaddsubfx.sourceforge.io) : ZynAddSubFX is a fully featured open source software synthesizer capable of making a countless number of instruments. [![][repo]](https://github.com/zynaddsubfx/zynaddsubfx)
 
 
-## :triangular_ruler: CAD
+## :triangular_ruler: CAx (CAD, CAM, BIM, etc)
 
 - [FreeCAD](https://www.freecad.org) : FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. FreeCAD equips with modern Finite Element Analysis (FEA) tools, experimental CFD, Geodata or CAM/CNC workbenches, a robot simulation module that allows to study robot movements and many more features. FreeCAD really is a Swiss Army knife of general-purpose engineering toolkits. [![][repo]](https://github.com/FreeCAD/FreeCAD)
+- [Bambu Suite](https://bambulab.com/en/download/suite) : Bambu Suite is an intuitive and powerful software that supports laser cutting, blade cutting, pen drawing and so much more. From design and layout to final production, the entire process is seamlessly integrated into a single workflow. [![][repo]](https://github.com/bambulab/BambuStudio)
+- Blender CAD Extensions:
+  - [Bonsai](https://extensions.blender.org/add-ons/bonsai) : Bonsai is designed to be a comprehensive and truly native BIM authoring platform for Blender using IfcOpenShell. [![][repo]](https://github.com/ifcopenshell/ifcopenshell)
+  - [CAD Sketcher](https://www.cadsketcher.com) : A constraint-based sketcher addon for Blender that allows you to create precise 2d shapes by defining CAD geometric constraints like tangents, distances, angles, equal and more. [![][repo]](https://github.com/hlorus/CAD_Sketcher)
+  - [Sverchok](https://nortikin.github.io/sverchok) : Sverchok is a powerful parametric CAD tool for architects and designers, enabling visual programming of geometry through nodes. Mesh and geometry programming involves combining basic elements. [![][repo]](https://github.com/nortikin/sverchok)
+- [Ink/Stitch](https://inkstitch.org) : Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. [![][repo]](https://github.com/inkstitch/inkstitch)
 - [KiCad](https://www.kicad.org) : KiCad is a free and open-source electronics design automation (EDA) suite. It features schematic capture, integrated circuit simulation, printed circuit board (PCB) layout, 3D rendering, and plotting/data export to numerous formats. KiCad also includes a high-quality component library featuring thousands of symbols, footprints, and 3D models. [![][repo]](https://gitlab.com/kicad)
+- [OrcaSlicer](https://www.orcaslicer.com) : an open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
 - [Sweet Home 3D](http://www.sweethome3d.com) : Sweet Home 3D is a free architectural design software that helps users create a 2D plan of a house, with a 3D preview, and decorate exterior and interior views, including ability to place furniture and home appliances. [![][repo]](https://sourceforge.net/projects/sweethome3d)
-  - [Plugins](https://www.sweethome3d.com/plugins.jsp) : 
+  - [Plugins and Tools](https://www.sweethome3d.com/plugins.jsp)
 
 
 ## :abacus: Data Analysis & ERP
@@ -127,14 +134,14 @@
   - [Octave Packages](https://gnu-octave.github.io/packages) : Addon packages for extanding functionality of GNU Octave.
 - [GeoGebra](https://www.geogebra.org) : GeoGebra (a portmanteau of geometry and algebra) is an interactive geometry, algebra, statistics and calculus application, intended for learning and teaching mathematics and science from for all levels. [![][repo]](https://github.com/geogebra/geogebra)
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW) : A easy and fast Cross-platform Unit and currencies Converter app.
-- [JASP](https://jasp-stats.org) :  [![][repo]]()
-- [jamovi](https://www.jamovi.org) :  [![][repo]]()
-- [KNIME](https://www.knime.com) :  [![][repo]]()
+- [JASP](https://jasp-stats.org) : JASP is a cross-platform software that allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake. It aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS. [![][repo]](https://github.com/jasp-stats/jasp-desktop)
+- [jamovi](https://www.jamovi.org) : jamovi provides a complete suite of analyses to bridge the gap between researcher and statistician. jamovi is a new “3rd generation” statistical spreadsheet. Designed from the ground up to be easy to use and familiar to users of SPSS. [![][repo]](https://github.com/jamovi/jamovi)
+- [KNIME](https://www.knime.com) : KNIME Analytics Platform is an open-source low-code/no-code software for creating visual workflows for data access, transformation, analysis, modeling, and visualization. [![][repo]](https://github.com/knime/knime-core)
 
 
 ## :sparkles: Graphics Editor
 
-- [Blender](https://www.blender.org) :  [![][repo]]()
+- [Blender](https://www.blender.org) : Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline - modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game asset creation. [![][repo]](https://projects.blender.org/blender/blender)
 
   #### :jigsaw: Extensions:  [*Blender Extensions*](https://extensions.blender.org)
   - [Radeon ProRender](https://gpuopen.com/radeon-pro-render) :  [![][repo]]()
@@ -147,11 +154,6 @@
   - [Papagayo-NG Importer](https://github.com/Hunanbean/Papagayo-NGLipsyncImporterForBlender) : 
   - [Rhubarb Lipsync](https://github.com/NickTiny/blender-rhubarb-2d-lipsync) :  [![][repo]]()
   - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint) :  [![][repo]](https://github.com/ucupumar/ucupaint)
-
-  - CAD
-    - [Bonsai](https://extensions.blender.org/add-ons/bonsai) :  [![][repo]](https://github.com/ifcopenshell/ifcopenshell)
-    - [CAD Sketcher](https://www.cadsketcher.com) :  [![][repo]](https://github.com/hlorus/CAD_Sketcher)
-    - [Sverchok](https://nortikin.github.io/sverchok) :  [![][repo]](https://github.com/nortikin/sverchok)
 
   - Generators
     - [Wolf Studio Generators](https://wolfstudio.io/assets) :  [![][repo]]()
@@ -173,13 +175,15 @@
   - [Scripts by Paul Sherman](https://www.gimphelp.org) : 
 - [Glaxnimate](https://glaxnimate.org) :  [![][repo]](https://invent.kde.org/graphics/glaxnimate)
 - [Inkscape](https://inkscape.org) :  [![][repo]]()
-  - [Ink/Stitch](https://inkstitch.org) :  [![][repo]]()
   - [Isometric Projection](https://github.com/jdhoek/inkscape-isometric-projection) :  [![][repo]]()
   - [Shapes by Arakne](https://www.arakne.es/en/category/dessign/inkscape-en) :  [![][repo]]()
 - [Krita](https://krita.org) : Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. [![][repo]](https://invent.kde.org/graphics/krita)
 - [Mesh2Motion](https://mesh2motion.org) : Import a 3D Model and automatically assign and export animations with Mesh2Motion. This is kind of similar to Mixamo, but is more flexible so it can support other model and skeleton types. [![][repo]](https://github.com/scottpetrovic/mesh2motion-app)
 - [Penpot](https://penpot.app) :  [![][repo]](https://github.com/penpot/penpot)
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) :  [![][repo]](https://github.com/Orama-Interactive/Pixelorama)
+- [Pixelorama](https://pixelorama.org) : A powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles or animations, this software will realize your pixel-perfect dreams with a vast toolbox of features. [![][repo]](https://github.com/Orama-Interactive/Pixelorama)
+- [Tahoma2D](https://tahoma2d.org) : Tahoma2D is a 2D and stop motion animation software.It is based on Toonz Studio Ghibli Version, originally developed in Italy by Digital Video, Inc., and customized by Studio Ghibli over many years of production. [![][repo]](https://github.com/tahoma2d/tahoma2d)
+  - [Tahoma2D Plugins](https://github.com/tahoma2d/tahoma2d_plugins)
+  - [OpenToonz Plugins and Tools](https://opentoonz.github.io)
 
 ### Tools
 
@@ -225,7 +229,7 @@
 - [Thunderbird](https://www.thunderbird.net) :  [![][repo]]()
 - [Free Download Manager](https://www.freedownloadmanager.org) : 
 - [qBittorrent](https://www.qbittorrent.org) :  [![][repo]]()
-- [Open Video Downloader](https://github.com/StefanLobbenmeier/youtube-dl-gui) : 
+- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) :  [![][repo]](https://github.com/jely2002/youtube-dl-gui)
 - [RustDesk](https://rustdesk.com) :  [![][repo]]()
 - [FileZilla](https://filezilla-project.org) :  [![][repo]]()
 - [KDE Connect](https://kdeconnect.kde.org) :  [![][repo]]()
@@ -260,14 +264,12 @@
 - [OnlyOffice](https://www.onlyoffice.com) : OnlyOffice consists of editors for text documents, spreadsheets, presentations, PDFs and forms. It has highest compatibility with Microsoft Office formats. [![][repo]](https://github.com/ONLYOFFICE/DesktopEditors)
 - [Scribus](https://www.scribus.net) : Scribus is free and open-source desktop publishing (DTP) software. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. [![][repo]](https://github.com/scribusproject/scribus)
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
-- [Bambu Suite](https://bambulab.com/en/download/suite) : Bambu Suite is an intuitive and powerful software that supports laser cutting, blade cutting, pen drawing and so much more. From design and layout to final production, the entire process is seamlessly integrated into a single workflow. [![][repo]](https://github.com/bambulab/BambuStudio)
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
 - [ISO Master](https://littlesvr.ca/isomaster/) : ISO Master is an open-source, easy to use, graphical ISO image editor for Linux and BSD. [![][repo]](https://github.com/rizalmart/isomaster3)
 - [KDiff3](https://apps.kde.org/kdiff3) :  [![][repo]]()
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
 - [NAPS2](https://www.naps2.com) :  [![][repo]]()
 - [OpenBangla Keyboard](https://openbangla.github.io) :  [![][repo]]()
-- [OrcaSlicer](https://www.orcaslicer.com) : an open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
 - [PeaZip](https://peazip.github.io) :  [![][repo]]()
 - [PDF4QT](https://jakubmelka.github.io) :  [![][repo]](https://github.com/JakubMelka/PDF4QT)
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
@@ -338,6 +340,13 @@
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
 - [Python](https://www.python.org) :  [![][repo]]()
+
+  #### :jigsaw: Extensions: [*Python Package Index (PyPI)*](https://pypi.org)
+  - PyQt6
+  - PySide6
+  - Shiboken6
+  - QtPy
+
 - [QEMU](https://www.qemu.org) :  [![][repo]]()
   - [virt-manager](https://virt-manager.org) :  [![][repo]]()
 - [VirtualBox](https://www.virtualbox.org) :  [![][repo]]()
