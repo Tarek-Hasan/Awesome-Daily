@@ -81,7 +81,6 @@
 - [Cardinal](https://cardinal.kx.studio) : Cardinal is a free and open-source virtual modular synthesizer app. It is based on the VCV Rack but with a focus on being a fully self-contained plugin version. [![][repo]](https://github.com/DISTRHO/Cardinal)
 - [EasyEffects](https://github.com/wwmm/easyeffects) : EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - [FxSound](https://www.fxsound.com) : FxSound is a high-fidelity digital audio processing program. It brings booming bass, crystal clear audio and high fidelity by optimizing music in real time. [![][repo]](https://github.com/fxsound2/fxsound-app)
-- [eSpeak NG](https://github.com/espeak-ng/espeak-ng) : eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [LMMS](https://lmms.io) : LMMS (Linux MultiMedia Studio) is a digital audio workstation software. It is a sound generation system, synthesizer, beat/bassline editor and MIDI control system that can power an entire home music studio. [![][repo]](https://github.com/LMMS/lmms)
 - [Mixxx](https://www.mixxx.org) : Mixxx is a DJ Automation and digital DJ performance application. It can be controlled with MIDI and HID controllers and timecode vinyl records in addition to computer keyboards and mice. [![][repo]](https://github.com/mixxxdj/mixxx)
 - [MusicBrainz Picard](https://picard.musicbrainz.org) : Picard is a cross-platform music tagger powered by the MusicBrainz database. It is capable of using audio fingerprints (AcoustIDs), performing CD lookups and disc ID submissions [![][repo]](https://github.com/metabrainz/picard)
@@ -113,14 +112,16 @@
 ## :triangular_ruler: CAx (CAD, CAM, BIM, etc)
 
 - [FreeCAD](https://www.freecad.org) : FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. FreeCAD equips with modern Finite Element Analysis (FEA) tools, experimental CFD, Geodata or CAM/CNC workbenches, a robot simulation module that allows to study robot movements and many more features. FreeCAD really is a Swiss Army knife of general-purpose engineering toolkits. [![][repo]](https://github.com/FreeCAD/FreeCAD)
-- [Bambu Suite](https://bambulab.com/en/download/suite) : Bambu Suite is an intuitive and powerful software that supports laser cutting, blade cutting, pen drawing and so much more. From design and layout to final production, the entire process is seamlessly integrated into a single workflow. [![][repo]](https://github.com/bambulab/BambuStudio)
+- [Kiri:Moto](https://grid.space) : Kiri:Moto is a multi-purpose fabrication engine that supports 3D printing, CNC milling, laser cutting, blade cutting and so much more. Designed as an open and lightweight full workflow tool for makers, educators, and prosumers. [![][repo]](https://github.com/GridSpace/grid-apps)
 - Blender CAD Extensions:
   - [Bonsai](https://extensions.blender.org/add-ons/bonsai) : Bonsai is designed to be a comprehensive and truly native BIM authoring platform for Blender using IfcOpenShell. [![][repo]](https://github.com/ifcopenshell/ifcopenshell)
   - [CAD Sketcher](https://www.cadsketcher.com) : A constraint-based sketcher addon for Blender that allows you to create precise 2d shapes by defining CAD geometric constraints like tangents, distances, angles, equal and more. [![][repo]](https://github.com/hlorus/CAD_Sketcher)
   - [Sverchok](https://nortikin.github.io/sverchok) : Sverchok is a powerful parametric CAD tool for architects and designers, enabling visual programming of geometry through nodes. Mesh and geometry programming involves combining basic elements. [![][repo]](https://github.com/nortikin/sverchok)
 - [Ink/Stitch](https://inkstitch.org) : Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. [![][repo]](https://github.com/inkstitch/inkstitch)
 - [KiCad](https://www.kicad.org) : KiCad is a free and open-source electronics design automation (EDA) suite. It features schematic capture, integrated circuit simulation, printed circuit board (PCB) layout, 3D rendering, and plotting/data export to numerous formats. KiCad also includes a high-quality component library featuring thousands of symbols, footprints, and 3D models. [![][repo]](https://gitlab.com/kicad)
-- [OrcaSlicer](https://www.orcaslicer.com) : an open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
+- [OrcaSlicer](https://www.orcaslicer.com) : An open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
+- [QGIS](https://qgis.org) : QGIS is an Open Source Geographic Information System and an official project of the Open Source Geospatial Foundation (OSGeo). It supports viewing, editing, printing, and analysis of geospatial data in a range of data formats. [![][repo]](https://github.com/qgis/QGIS)
+- [Rayforge](https://rayforge.org) : The World's Most Powerful Open Source Laser Software. Rayforge is the complete creative studio for laser cutter, combining 2D CAD, CAM, and machine control in a single package. [![][repo]](https://github.com/barebaric/rayforge)
 - [Sweet Home 3D](http://www.sweethome3d.com) : Sweet Home 3D is a free architectural design software that helps users create a 2D plan of a house, with a 3D preview, and decorate exterior and interior views, including ability to place furniture and home appliances. [![][repo]](https://sourceforge.net/projects/sweethome3d)
   - [Plugins and Tools](https://www.sweethome3d.com/plugins.jsp)
 
@@ -359,19 +360,22 @@
   - [Effekseer For Godot](https://github.com/effekseer/EffekseerForGodot4) : Effekseer's plugin for Godot Engine.It will be able to show the effects that was created with Effekseer.
   - [GDfxr](https://github.com/timothyqiu/gdfxr) : Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.
   - [Godot LDtk Importer](https://github.com/heygleeson/godot-ldtk-importer) : LDTK Importer for Godot 4.
+  - [Godot VFX Library](https://github.com/haowg/GODOT-VFX-LIBRARY) : A comprehensive collection of particle effects and shaders for Godot, designed specifically for action games.
   - [LimboAI](https://github.com/limbonaut/limboai) : LimboAI is an open-source C++ plugin for Godot Engine 4 providing a combination of Behavior Trees and State Machines, which can be used together to create complex AI behaviors.
   - [Orchestrator](https://orchestrator.vahera.com) : Orchestrator is the ultimate Visual-Scripting solution designed for Godot 4.2+ platform. [![][repo]](https://github.com/Vahera/godot-orchestrator)
   - [Phantom Camera](https://phantom-camera.dev) : Phantom Camera is a Godot plugin designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes - inspired by Cinemachine. [![][repo]](https://github.com/ramokz/phantom-camera)
-  - [Post-Processing Tool for Godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) : A tool for adding post-processing effects in Godot projects.
+  - [ShaderV](https://github.com/arkology/ShaderV) : Adds many premade 2D effects (such as noises, blur, emboss, zoom, custom shapes, etc.) to build-in VisualShader editor.
+  - [SoftBody2D](https://github.com/appsinacup/godot-softbody2d) : Adds the SoftBody2D node which creates a set of RigidBody2Ds and Joint2Ds used with a Skeleton2D in order to deform the texture.
   - [Sky3D](https://github.com/TokisanGames/Sky3D) : A dynamic day/night cycle for Godot Engine.
   - [Terrain3D](https://github.com/TokisanGames/Terrain3D) : A high performance, editable terrain system for Godot.
   - [Tree3D](https://github.com/JekSun97/gdTree3D) : Plugin for procedural generation of 3D trees of varying complexity.
+  - [Ultimate Retro Shader Collection](https://github.com/Zorochase/ultimate-retro-shader-collection) : Shaders bringing 5th-gen console aesthetics to Godot.
+  - [Universal Transition Shader](https://github.com/cashew-olddew/Universal-Transition-Shader) : Most common transitions inside one Godot shader.
 - [LDtk](https://ldtk.io) : Level Designer Toolkit (LDtk) is a modern, efficient and open-source 2D level editor with a strong focus on user-friendliness. [![][repo]](https://github.com/deepnight/ldtk)
 - [Tiled](https://www.mapeditor.org) : Tiled is a general purpose tile map editor for all tile-based games. Tiled is highly flexible. It can be used to create maps of any size, with no restrictions on tile size, or the number of layers or tiles that can be used. Maps, layers, tiles, and objects can all be assigned arbitrary properties. [![][repo]](https://github.com/mapeditor/tiled)
 
 ### Web Development
 
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer) :  [![][repo]]()
 - [Silex](https://www.silex.me) :  [![][repo]]()
 - [Cockpit](https://cockpit-project.org) :  [![][repo]]()
 - [Discourse](https://www.discourse.org) :  [![][repo]]()
@@ -405,10 +409,10 @@
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) :  [![][repo]]()
 - [Attribute Changer](https://www.petges.lu) :  [![][repo]]()
 - [Czkawka](https://github.com/qarmin/czkawka) : 
+- [DeadLock](https://codedead.com/software/deadlock/) : DeadLock can be used to unlock files and folders that are locked by other process(s). This can be useful if you want to delete or move a file that is in use. [![][repo]](https://github.com/CodeDead/DeadLock)
 - [ExifToolGui](https://github.com/FrankBijnen/ExifToolGui) : 
 - [Gramps](https://gramps-project.org) :  [![][repo]]()
 - [Szyszka](https://github.com/qarmin/szyszka) : 
-- [LockHunter](https://lockhunter.com) :  [![][repo]]()
 - [UniGetUI](https://www.marticliment.com/unigetui) :  [![][repo]](https://github.com/marticliment/UniGetUI)
 - [Universal Extractor](https://github.com/Bioruebe/UniExtract2) :  [![][repo]]()
 - [Ventoy](https://www.ventoy.net) :  [![][repo]]()
@@ -428,7 +432,7 @@
 ### System Utility
 
 - [HWiNFO](https://www.hwinfo.com) :  [![][repo]]()
-- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) :  [![][repo]]()
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) : CrystalDiskInfo is an open source utility that monitors and displays the health of your HDD/SSD, including basic information, S.M.A.R.T. values, and disk temperature. [![][repo]](https://github.com/hiyohiyo/CrystalDiskInfo)
 - [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) : 
 - [Glow](https://www.turkaysoftware.com/glow) :  [![][repo]](https://github.com/turkaysoftware/glow)
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
