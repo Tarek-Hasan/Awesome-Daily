@@ -84,7 +84,7 @@
 - [LMMS](https://lmms.io) : LMMS (Linux MultiMedia Studio) is a digital audio workstation software. It is a sound generation system, synthesizer, beat/bassline editor and MIDI control system that can power an entire home music studio. [![][repo]](https://github.com/LMMS/lmms)
 - [Mixxx](https://www.mixxx.org) : Mixxx is a DJ Automation and digital DJ performance application. It can be controlled with MIDI and HID controllers and timecode vinyl records in addition to computer keyboards and mice. [![][repo]](https://github.com/mixxxdj/mixxx)
 - [MusicBrainz Picard](https://picard.musicbrainz.org) : Picard is a cross-platform music tagger powered by the MusicBrainz database. It is capable of using audio fingerprints (AcoustIDs), performing CD lookups and disc ID submissions [![][repo]](https://github.com/metabrainz/picard)
-- [Speech Note](https://github.com/mkiol/dsnote) : Speech Note is an app for note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
+- [RTL Utility](https://oblique-audio.com/rtl-utility.php) : RTL Utility is a tool for measuring the Round Trip Latency of your Digital Audio Workstation (DAW) and audio interface. The utility is used for low latency performance testing.
 - [Sonic Visualiser](https://sonicvisualiser.org) : Sonic Visualiser is an application for viewing and analysing the contents of music audio files. [![][repo]](https://github.com/sonic-visualiser/sonic-visualiser)
   - [Vamp Plugin Pack](https://www.vamp-plugins.org/pack.html) : A set of open-source vamp plugins. [![][repo]](https://github.com/vamp-plugins/vamp-plugin-pack)
 
@@ -118,6 +118,7 @@
   - [CAD Sketcher](https://www.cadsketcher.com) : A constraint-based sketcher addon for Blender that allows you to create precise 2d shapes by defining CAD geometric constraints like tangents, distances, angles, equal and more. [![][repo]](https://github.com/hlorus/CAD_Sketcher)
   - [Sverchok](https://nortikin.github.io/sverchok) : Sverchok is a powerful parametric CAD tool for architects and designers, enabling visual programming of geometry through nodes. Mesh and geometry programming involves combining basic elements. [![][repo]](https://github.com/nortikin/sverchok)
 - [Ink/Stitch](https://inkstitch.org) : Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. [![][repo]](https://github.com/inkstitch/inkstitch)
+- [gSender](https://sienci.com/gsender/) : gSender is a modern open-source CNC interface software for grbl based CNCs. It designed to be clean and easy to learn while retaining a depth of capabilities for advanced users. [![][repo]](https://github.com/Sienci-Labs/gsender)
 - [KiCad](https://www.kicad.org) : KiCad is a free and open-source electronics design automation (EDA) suite. It features schematic capture, integrated circuit simulation, printed circuit board (PCB) layout, 3D rendering, and plotting/data export to numerous formats. KiCad also includes a high-quality component library featuring thousands of symbols, footprints, and 3D models. [![][repo]](https://gitlab.com/kicad)
 - [OrcaSlicer](https://www.orcaslicer.com) : An open source Next-Gen Slicing Software for Precision 3D Prints. Optimizes prints with ultra-fast slicing, intelligent support generation, and seamless printer compatibility - engineered for perfection. [![][repo]](https://github.com/OrcaSlicer/orcaslicer)
 - [QGIS](https://qgis.org) : QGIS is an Open Source Geographic Information System and an official project of the Open Source Geospatial Foundation (OSGeo). It supports viewing, editing, printing, and analysis of geospatial data in a range of data formats. [![][repo]](https://github.com/qgis/QGIS)
@@ -202,6 +203,7 @@
 ## :clapper: Video Production
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) : DaVinci Resolve is a professional Post Production solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool. Supports Mac, Windows and Linux. *[Note: Online account required]*
+  - [CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) : Native AI keying runtime and OFX plugin for DaVinci Resolve. Uses AI green and blue screen keyer by Corridor Digital.
 - [Astrofox](https://astrofox.io) :  [![][repo]]()
 - [cameractrls](https://github.com/soyersoyer/cameractrls) :  [![][repo]]()
 - [digiCamControl](http://digicamcontrol.com) :  [![][repo]]()
@@ -260,9 +262,9 @@
 
 ## :briefcase: Office
 
+- [OnlyOffice](https://www.onlyoffice.com) : OnlyOffice consists of editors for text documents, spreadsheets, presentations, PDFs and forms. It has highest compatibility with Microsoft Office formats. [![][repo]](https://github.com/ONLYOFFICE/DesktopEditors)
 - [LibreOffice](https://www.libreoffice.org) : LibreOffice is the most powerful office suite. It includes - Writer (word processing), Calc (spreadsheets), Impress (presentations), Draw (vector graphics and flowcharts), Base (databases), and Math (formula editing). [![][repo]](https://git.libreoffice.org/core)
   - [WritingTool](https://extensions.libreoffice.org/en/extensions/show/99240) : Open source writing assistant designed for spelling, grammar and style checking and paraphrasing based on LanguageTool. [![][repo]](https://github.com/writingtool-org/writingtool)
-- [OnlyOffice](https://www.onlyoffice.com) : OnlyOffice consists of editors for text documents, spreadsheets, presentations, PDFs and forms. It has highest compatibility with Microsoft Office formats. [![][repo]](https://github.com/ONLYOFFICE/DesktopEditors)
 - [Scribus](https://www.scribus.net) : Scribus is free and open-source desktop publishing (DTP) software. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. [![][repo]](https://github.com/scribusproject/scribus)
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
@@ -274,6 +276,7 @@
 - [PeaZip](https://peazip.github.io) :  [![][repo]]()
 - [PDF4QT](https://jakubmelka.github.io) :  [![][repo]](https://github.com/JakubMelka/PDF4QT)
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
+- [Speech Note](https://github.com/mkiol/dsnote) : Speech Note is an app for note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [Stirling PDF](https://www.stirlingpdf.com) :  [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
 - [Typing Commander](https://typingcommander.com) :  [![][repo]](https://sourceforge.net/projects/typing-commander)
 - [Tellico](https://tellico-project.org) :  [![][repo]]()
@@ -398,7 +401,6 @@
 - [Wine](https://github.com/Kron4ek/Wine-Builds) : 
   - [Bottles](https://usebottles.com) :  [![][repo]]()
   - [Hangover](https://github.com/AndreRH/hangover) : 
-- [WSL](https://github.com/microsoft/WSL) : 
 - [ZLUDA](https://github.com/vosen/ZLUDA) : ZLUDA lets you run unmodified CUDA applications with near-native performance on AMD GPUs.
 
 
