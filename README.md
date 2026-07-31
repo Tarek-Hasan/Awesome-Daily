@@ -246,6 +246,8 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : A free and open source Windows desktop utility that displays real-time network speed, CPU usage, memory usage, and other system information in the taskbar or a floating window. It is lightweight and highly customizable for system monitoring. [![][repo]]()
 - [WebChange Monitor](https://sourceforge.net/projects/webchangemon/) : A free and open source website monitoring tool that automatically checks web pages for changes and notifies users when updates are detected. It supports monitoring websites, feeds, documents, and APIs, making it useful for tracking announcements, price changes, and content updates. [![][repo]]()
 
+- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) : Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, Docker deployment, automatic updates, and rollback. [![][repo]](https://github.com/Avazbek22/VideoDownloaderBot)
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) : Self-hosted Telegram group bot that turns supported video links into native posts with media reuse and rollback-safe updates. [![][repo]](https://github.com/Avazbek22/LinkDownloaderBotForGroups)
 
 ## :film_strip: Media Viewers
 
