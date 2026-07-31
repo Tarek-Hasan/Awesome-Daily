@@ -440,6 +440,7 @@
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
 - [System Informer](https://systeminformer.sourceforge.io) :  [![][repo]](https://github.com/winsiderss/systeminformer)
 - [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) :  [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
+- [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) : A Windows utility that recovers clear Bluetooth stereo when games or voice apps leave a headset stuck in low-quality Hands-Free mode. [![][repo]](https://github.com/Avazbek22/BluetoothHandsFreeToggle)
 
 
 ## :man_technologist: Hacking & Forensics Tools
