@@ -344,6 +344,7 @@
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
 - [Python](https://www.python.org) :  [![][repo]]()
+- [DevProjex](https://github.com/Avazbek22/DevProjex) : Cross-platform codebase-context tool with GUI, TUI, CLI, and a read-only MCP server, plus live preview, redaction, Git scopes, and syntax-aware compression. [![][repo]](https://github.com/Avazbek22/DevProjex)
 
   #### :jigsaw: Extensions: [*Python Package Index (PyPI)*](https://pypi.org)
   - PyQt6
