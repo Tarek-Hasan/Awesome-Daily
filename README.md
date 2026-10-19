@@ -267,6 +267,7 @@
   - [WritingTool](https://extensions.libreoffice.org/en/extensions/show/99240) : Open source writing assistant designed for spelling, grammar and style checking and paraphrasing based on LanguageTool. [![][repo]](https://github.com/writingtool-org/writingtool)
 - [Scribus](https://www.scribus.net) : Scribus is free and open-source desktop publishing (DTP) software. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. [![][repo]](https://github.com/scribusproject/scribus)
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
+- [Glim](https://github.com/NeoPanic/Glim) : A free, MIT-licensed macOS file viewer for reading Markdown with diagrams and formulas alongside PDFs, Office documents, source code, JSON and CSV. Ordinary UTF-8 files support basic editing; PDF and Office previews are read-only.
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
 - [ISO Master](https://littlesvr.ca/isomaster/) : ISO Master is an open-source, easy to use, graphical ISO image editor for Linux and BSD. [![][repo]](https://github.com/rizalmart/isomaster3)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
