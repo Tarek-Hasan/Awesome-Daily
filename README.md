@@ -41,7 +41,6 @@
 
   - [Bazzite](https://bazzite.gg) : Bazzite is a custom Fedora distro designed for Linux newcomers and enthusiasts alike with Steam pre-installed, HDR & VRR support, improved CPU schedulers for responsive gameplay, and numerous community-developed tools and tweaks to streamline gaming.
   - [openSUSE](https://www.opensuse.org) : The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution. It is aimed towards users and developers working on the desktop or server.
-  - [openKylin](https://www.openkylin.top) : openKylin is an Ubuntu-based distribution. It features UKUI, a lightweight desktop environment. Its visual appearance is similar to modern Windows, making it easier for new users of Linux.
   - [TUXEDO OS](https://www.tuxedocomputers.com/os) : TUXEDO OS is an Ubuntu-based distribution developed in Germany by TUXEDO Computers GmbH. The distribution uses KDE Plasma as the preferred desktop.
   - [ReactOS](https://reactos.org) : ReactOS is an open-source 'Windows NT'-like operating system, written completely from scratch. It intended to be binary-compatible with computer programs and device drivers developed for Microsoft Windows. Additionally, it uses the similar look and feel of the Windows operating system. The ultimate goal of ReactOS is to be drop-in replacement for Windows.
 
@@ -49,14 +48,14 @@
 
   - [Armbian](https://www.armbian.com) : Armbian is a Linux distribution designed for ARM development boards. It is based on Debian or Ubuntu and it supports a wide variety of popular ARM-based devices.
   - [Manjaro](https://manjaro.org) : Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability.
-  - [postmarketOS](https://postmarketos.org) : postmarketOS is a Alpine Linux based distro to run on smartphones and other mobile devices.
+  - [Nura](https://nura.eco) : Nura is a Alpine Linux based distro to run on smartphones and other mobile devices.
 
 
 ## :shield: Security
 
 - [ClamAV Desktop](https://github.com/ivangabriele/clamav-desktop) : ClamAV Desktop is a graphical front-end for ClamAV. It is designed to be an easy-to-use, lightweight, on-demand antivirus scanner for Linux systems.
 - [Kaspersky Virus Removal Tool](https://support.kaspersky.com/kvrt2020) : A free tool that scans and disinfects Windows and Linux computers.
-- [Tron](https://old.reddit.com/r/TronScript/) : Tron is a glorified collection of batch files that automate the process of cleaning up and disinfecting Windows machines. [![][repo]](https://github.com/bmrf/tron)
+- [Tron](https://www.reddit.com/r/TronScript/) : Tron is a glorified collection of batch files that automate the process of cleaning up and disinfecting Windows machines. [![][repo]](https://github.com/bmrf/tron)
 - [OPNsense](https://opnsense.org): OPNsense is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform. [![][repo]](https://github.com/opnsense)
 - [BleachBit](https://www.bleachbit.org) : BleachBit is an open-source disk space cleaner, privacy manager, and system optimizer. [![][repo]](https://github.com/bleachbit/bleachbit)
 - [HiJackThis](https://github.com/dragokas/hijackthis) : HiJackThis is a free utility for Windows that scans your computer for settings changed by adware, spyware, malware and other unwanted programs.
@@ -91,7 +90,7 @@
 ### :electric_plug: Audio Plugins
 
   - [amsynth](https://amsynth.github.io) : amsynth is an easy-to-use software synth with a classic subtractive synthesizer topology (Analog Modelling). [![][repo]](https://github.com/amsynth/amsynth)
-  - [Calf Studio Gear](https://calf-studio-gear.org) : Calf Studio Gear is an audio plug-in pack for LINUX OSes. The suite contains lots of effects (delay, modulation, signal processing, filters, equalizers, dynamics, distortion and mastering effects), instruments (SF2 player, organ simulator and a monophonic synthesizer) and tools (analyzer, mono/stereo tools, crossovers). [![][repo]](https://github.com/calf-studio-gear/calf)
+  - [CalfNxt](https://calfnxt.org) : CalfNxt is the successor to Calf Studio Gear. The suite contains lots of effects (delay, modulation, signal processing, filters, equalizers, dynamics, distortion and mastering effects), instruments (SF2 player, organ simulator and a monophonic synthesizer) and tools (analyzer, mono/stereo tools, crossovers). [![][repo]](https://github.com/boomshop/calfnxt)
   - [dexed](https://asb2m10.github.io/dexed) : Dexed is a FM Plugin Synth that is closely modeled on the Yamaha DX7. [![][repo]](https://github.com/asb2m10/dexed)
   - [DrumGizmo](https://drumgizmo.org) : DrumGizmo is an open source, multichannel, multilayered, cross-platform drum plugin and stand-alone application.
   - [guitarix](https://guitarix.org) : guitarix is a virtual guitar amplifier for Linux. [![][repo]](https://github.com/brummer10/guitarix)
@@ -137,7 +136,7 @@
 - [GeoGebra](https://www.geogebra.org) : GeoGebra (a portmanteau of geometry and algebra) is an interactive geometry, algebra, statistics and calculus application, intended for learning and teaching mathematics and science from for all levels. [![][repo]](https://github.com/geogebra/geogebra)
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW) : A easy and fast Cross-platform Unit and currencies Converter app.
 - [JASP](https://jasp-stats.org) : JASP is a cross-platform software that allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake. It aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS. [![][repo]](https://github.com/jasp-stats/jasp-desktop)
-- [jamovi](https://www.jamovi.org) : jamovi provides a complete suite of analyses to bridge the gap between researcher and statistician. jamovi is a new “3rd generation” statistical spreadsheet. Designed from the ground up to be easy to use and familiar to users of SPSS. [![][repo]](https://github.com/jamovi/jamovi)
+- [jamovi](https://www.jamovi.org) : jamovi provides a complete suite of analyses to bridge the gap between researcher and statistician. jamovi is a new "3rd generation" statistical spreadsheet. Designed from the ground up to be easy to use and familiar to users of SPSS. [![][repo]](https://github.com/jamovi/jamovi)
 - [KNIME](https://www.knime.com) : KNIME Analytics Platform is an open-source low-code/no-code software for creating visual workflows for data access, transformation, analysis, modeling, and visualization. [![][repo]](https://github.com/knime/knime-core)
 
 
@@ -147,21 +146,28 @@
 
   #### :jigsaw: Extensions:  [*Blender Extensions*](https://extensions.blender.org)
   - [Radeon ProRender](https://gpuopen.com/radeon-pro-render) :  [![][repo]]()
-  - [BagaPie](https://extensions.blender.org/add-ons/bagapie) : 
-  - [BlenRig](https://github.com/jpbouza/BlenRig) :  [![][repo]]()
-  - [Bone Widget](https://github.com/BlenderDefender/boneWidget) :  [![][repo]]()
-  - [BY-GEN](https://curtisholt.online/by-gen) :  [![][repo]]()
-  - [CharMorph](https://github.com/Upliner/CharMorph) :  [![][repo]]()
-  - [MPFB](https://extensions.blender.org/add-ons/mpfb) :  [![][repo]](https://github.com/makehumancommunity/mpfb2)
-  - [Papagayo-NG Importer](https://github.com/Hunanbean/Papagayo-NGLipsyncImporterForBlender) : 
-  - [Rhubarb Lipsync](https://github.com/NickTiny/blender-rhubarb-2d-lipsync) :  [![][repo]]()
-  - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint) :  [![][repo]](https://github.com/ucupumar/ucupaint)
+  - [BagaPie](https://extensions.blender.org/add-ons/bagapie) : BagaPie provide 50+ tools for architecture and environment. It include tools for ivy generation, scattering, parametric objects, edit mesh tools, grouping, etc. Also create custom & share tools via BagaPie's GeoPack feature.
+  - [BlenRig](https://superhivemarket.com/products/blenrig) : BlenRig is an Auto-rigging and skinning system for Blender. It provides the user to create Feature Film quality rigged characters, including an advanced facial system. [![][repo]](https://github.com/jpbouza/BlenRig)
+  - [Bone Widget](https://extensions.blender.org/add-ons/bone-widget) : Bone Widget is a blender add-on to assist with making custom bone shapes. It has an editable library of shapes that make it easy to apply to any rig. [![][repo]](https://github.com/waylow/boneWidget)
+  - [Brushstroke Tools](https://extensions.blender.org/add-ons/brushstroke-tools) : Set of tools for a painterly 3D brushstrokes workflow by the Blender Studio to create a variety of stylized looks for asset production. [![][repo]](https://projects.blender.org/studio/blender-studio-tools)
+  - [Buildify](https://paveloliva.gumroad.com/l/buildify) : Buildify is a geometry nodes library for easy building creation.
+  - [BY-GEN](https://curtis-holt.gitbook.io/curtis-holt-docs/knowledge-base/blender-projects/by-gen) : BY-GEN is a usability addon designed to simplify the artistic workflow of using geometry nodes for procedural and generative effects. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
+  - [CharMorph](https://github.com/Upliner/CharMorph) : CharMorph is a character creation tool for Blender. It uses base meshes and morphs from ManuelbastioniLAB/MB-Lab while being designed for easy creation of new models and modification of existing ones.
+  - [Lip Sync](https://extensions.blender.org/add-ons/iocgpoly-lip-sync) : Lip Sync is a powerful Blender add-on that brings automated lip-sync animation to your characters. [![][repo]](https://github.com/Charley3d/lip-sync)
+  - [Modular Tree](https://extensions.blender.org/add-ons/modular-tree) : A procedural tree generator addon for Blender using a node-based workflow. [![][repo]](https://github.com/GoodPie/modular_tree)
+  - [MPFB](https://extensions.blender.org/add-ons/mpfb) : MPFB is a free and open source human character generator for blender. [![][repo]](https://github.com/makehumancommunity/mpfb2)
+  - [Parrot Lipsync](https://github.com/blackears/parrotLipsync) : Parrot Lipsync is an extension for Blender that lets you automatically generate lip-synced data from audio tracks.
+  - [Pixel Art Render](https://lucasroedel.gumroad.com/l/pixel_art) : Pixel art -like renders in blender, work with eevee, bayer dithering and multiple light sources.
+  - [Rigacar](https://digicreatures.net/articles/rigacar.html) : Rigacar is a Blender addon for easier car rigging with automated wheel and brake animation. [![][repo]](https://github.com/PurpBatBoi/rigacar-5)
+  - [Stylized Fantasy Tree Generator](https://rc12.gumroad.com/l/fantasytree) : 
+  - [Tiny Eye](https://tinynocky.gumroad.com/l/tinyeye) : Tiny Eye is a FREE, fully procedural, stylised eye that works in both EEVEE and Cycles.
+  - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint) : Ucupaint is a Blender addon that stacks images, textures, and vertex colors into layers with mask and baking support. [![][repo]](https://github.com/ucupumar/ucupaint)
+  - [Wolf Tools](https://wolfmarket.gumroad.com/l/tools) : 
 
-  - Generators
-    - [Wolf Studio Generators](https://wolfstudio.io/assets) :  [![][repo]]()
-    - [Buildify](https://paveloliva.gumroad.com/l/buildify) :  [![][repo]]()
-    - [Offroad Rig Generator](https://blenderesse.gumroad.com/l/momhq) :  [![][repo]]()
-    - [Stylized Fantasy Tree Generator](https://rc12.gumroad.com/l/fantasytree) :  [![][repo]]()
+  - Assets
+    - [Nature Asset Pack](https://chuckcg.gumroad.com/l/joGTC) : Easily add vegetation to your scenes with this Pack of assets and tools for Blender. Includes Grass, Plants, Trees, Flowers, Rocks & Generators.
+    - [Plant Library](https://superhivemarket.com/products/the-plant-library) : The Plant-Library is a Pack containing over 170+ HQ Vegetation Assets.
+    - [ZenShaders Library](https://zenshaders.gumroad.com/l/bvjal) : ZenShaders Free Library is a collection of free materials, textures, brushes, tools, and more.
 
 - [Affinity Studio](https://www.affinity.studio) : Affinity is a professional graphics editor suite, which is a simultaneously a vector graphics editor, a raster graphics editor and a desktop publishing application. Supported file formats include Adobe Photoshop, InDesign and Illustrator files, PDF, SVG, and TIFF. *[Note: Online account required]*
   - [G'MIC-8bf](https://github.com/0xC0000054/gmic-8bf) : An 8bf filter plug-in that interacts with G'MIC-Qt. G'MIC contains over 600 filter effects.
@@ -175,10 +181,10 @@
   - [Elsamuko Scripts](https://elsamuko.github.io/gimp-elsamuko/scripts.html) :  [![][repo]]()
   - [Karl Hofmeyr Scripts](https://github.com/karlhof26/gimp-scheme) : 
   - [Scripts by Paul Sherman](https://www.gimphelp.org) : 
+  - [Shapes Creator](https://www.arakne.es/en/cat/gimp-en/) : GIMP path creation plugin that includes the option to add Vector Layers from the path being created.
 - [Glaxnimate](https://glaxnimate.org) :  [![][repo]](https://invent.kde.org/graphics/glaxnimate)
 - [Inkscape](https://inkscape.org) :  [![][repo]]()
   - [Isometric Projection](https://github.com/jdhoek/inkscape-isometric-projection) :  [![][repo]]()
-  - [Shapes by Arakne](https://www.arakne.es/en/category/dessign/inkscape-en) :  [![][repo]]()
 - [Krita](https://krita.org) : Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. [![][repo]](https://invent.kde.org/graphics/krita)
 - [Mesh2Motion](https://mesh2motion.org) : Import a 3D Model and automatically assign and export animations with Mesh2Motion. This is kind of similar to Mixamo, but is more flexible so it can support other model and skeleton types. [![][repo]](https://github.com/scottpetrovic/mesh2motion-app)
 - [Penpot](https://penpot.app) :  [![][repo]](https://github.com/penpot/penpot)
@@ -189,15 +195,15 @@
 
 ### Tools
 
+  - [ArmorPaint](https://armorpaint.org) : ArmorPaint is a software designed for physically-based texture painting. [![][repo]](https://github.com/armory3d/armorpaint)
   - [Effekseer](https://effekseer.github.io/en) : A free, open source particle effect editor used to create visual effects such as explosions, fire, smoke, magic spells, and sparks for games and animations. It supports major game engines like Unity and Unreal Engine, allowing effects to be exported and integrated across multiple platforms. [![][repo]]()
   - [Hugin](https://hugin.sourceforge.io) : An open source panorama stitching application that combines multiple overlapping photos into seamless panoramic or 360° images. It also includes tools for exposure correction, HDR merging, lens distortion correction, and perspective adjustment. [![][repo]]()
-  - [Luminance HDR](https://sourceforge.net/projects/qtpfsgui) : An open source High Dynamic Range (HDR) imaging application used to create HDR photos by combining multiple images taken at different exposure levels. It also provides tone mapping tools to produce realistic or artistic images suitable for display on standard screens. [![][repo]]()
+  - [Luminance HDR](https://qtpfsgui.sourceforge.net) : Luminance HDR is a complete suite for HDR imaging workflow. It provides a wide range of functionalities, during both the fusion stage and the tonemapping stage. [![][repo]](https://github.com/LuminanceHDR/LuminanceHDR)
   - [Material Maker](https://www.materialmaker.org) : A free, open source procedural material authoring tool for creating physically based rendering (PBR) textures. It uses a node-based workflow to generate customizable materials such as wood, stone, metal, and fabric for 3D models and game development. [![][repo]]()
   - [MeshLab](https://www.meshlab.net) : An open source software for processing, editing, and analyzing 3D meshes and point clouds. It is widely used for cleaning scanned models, repairing geometry, simplifying meshes, measuring objects, and converting between various 3D file formats. [![][repo]]()
   - [Meshroom](https://alicevision.org/#meshroom) : A free photogrammetry software that reconstructs detailed 3D models from a collection of photographs using computer vision techniques. It is powered by the AliceVision framework and is commonly used for cultural heritage preservation, game assets, and visual effects. [![][repo]]()
-  - [Papagayo-NG](https://morevnaproject.org/papagayo-ng) : An open source lip-sync tool that automatically aligns dialogue with phonemes to generate mouth movements for animated characters. It helps animators synchronize speech with 2D or 3D character animations, reducing the amount of manual work. [![][repo]]()
   - [PixelPlanets](https://deep-fold.itch.io/pixel-planet-generator) : An open source procedural planet generator that creates pixel art planets, moons, and celestial bodies. It is primarily used by game developers and pixel artists to quickly generate customizable space-themed assets. [![][repo]](https://github.com/Deep-Fold/PixelPlanets)
-  - [Tree It](https://www.evolved-software.com/treeit/treeit) : A lightweight 3D tree modeling software for creating low-polygon trees, bushes, and vegetation for games and real-time applications. It offers procedural controls for branch and leaf generation and exports models to common 3D formats for use in game engines. [![][repo]]()
+  - [Tree It](https://www.evolved-software.com/treeit/treeit) : A lightweight 3D tree modeling software for creating low-polygon trees, bushes, and vegetation for games and real-time applications. It offers procedural controls for branch and leaf generation and exports models to common 3D formats for use in game engines.
 
 
 ## :clapper: Video Production
@@ -230,7 +236,7 @@
    - [Linguist](https://github.com/translate-tools/linguist) : Translate web pages, highlighted text, Netflix subtitles, private messages, speak text, and save important translations to your personal dictionary.
 
 - [Thunderbird](https://www.thunderbird.net) : A free and open source email client developed by Mozilla that supports multiple email accounts, calendars, contacts, and RSS feeds. It includes advanced spam filtering, encryption support, and extensive customization through add-ons. [![][repo]]()
-- [Free Download Manager](https://www.freedownloadmanager.org) : A free and open source download manager that accelerates file downloads and supports HTTP, HTTPS, FTP, BitTorrent, and magnet links. It also offers download scheduling, bandwidth management, resume capability, and browser integration. [![][repo]]()
+- [Free Download Manager](https://www.freedownloadmanager.org) : A free download manager that accelerates file downloads and supports HTTP, HTTPS, FTP, BitTorrent, and magnet links. It also offers download scheduling, bandwidth management, resume capability, and browser integration.
 - [qBittorrent](https://www.qbittorrent.org) : A free and open source BitTorrent client that provides a clean, ad-free interface for downloading and sharing torrent files. It includes features such as an integrated torrent search engine, RSS support, bandwidth control, and remote web management. [![][repo]]()
 - [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) : A free and open source application for downloading videos and audio from YouTube and hundreds of other supported websites. It provides a simple graphical interface for selecting formats, resolutions, subtitles, and playlists. [![][repo]](https://github.com/jely2002/youtube-dl-gui)
 - [RustDesk](https://rustdesk.com) : A free and open source remote desktop software that allows secure remote access and device control over the internet or local network. Users can self-host their own server for enhanced privacy and full control over remote connections. [![][repo]]()
@@ -254,7 +260,7 @@
 - [Kodi](https://kodi.tv) : A free and open source media center application that organizes and plays local and online media through a customizable interface. It supports movies, TV shows, music, photos, live TV, DVR functionality, and a large ecosystem of community add-ons. [![][repo]]()
   - [MythTV](https://www.mythtv.org) : A free and open source digital video recorder (DVR) and home theater software primarily designed for Linux. It allows users to watch, record, schedule, and manage live television while also serving as a complete multimedia entertainment system. [![][repo]]()
   - [TVMosaic](https://gitlab.com/tvmosaic/server) : A cross-platform personal video recorder (PVR) and media server that enables users to watch, record, and stream live television across multiple devices. It supports network TV tuners, electronic program guides (EPG), and media library management. [![][repo]]()
-- [DJV](https://darbyjohnston.github.io/DJV) : A free and open source professional media playback and review application designed for visual effects, animation, and film production. It supports high-resolution image sequences, video playback, color management, and frame-accurate review workflows. [![][repo]]()
+- [DJV](https://grizzlypeak3d.github.io/DJV/) : A free and open source professional media playback and review application designed for visual effects, animation, and film production. It supports high-resolution image sequences, video playback, color management, and frame-accurate review workflows. [![][repo]](https://github.com/grizzlypeak3d/DJV)
 - [ImageGlass](https://imageglass.org) : A free and open source lightweight image viewer for Windows that supports over 80 image formats. It offers fast image loading, slideshow functionality, format conversion, and a modern, customizable interface. [![][repo]]()
 - [Icaros](https://github.com/Xanashi/Icaros) : A free and open source Windows Shell extension that provides thumbnail previews and detailed property information for a wide variety of video, audio, and image formats in File Explorer. It enhances media browsing without requiring a dedicated media player. [![][repo]]()
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) : A free and open source utility that displays detailed technical information about audio, video, and subtitle files. It reports metadata such as codecs, bitrates, resolution, frame rate, audio channels, and container formats, making it valuable for media analysis and troubleshooting. [![][repo]]()
@@ -270,13 +276,13 @@
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
 - [ISO Master](https://littlesvr.ca/isomaster/) : ISO Master is an open-source, easy to use, graphical ISO image editor for Linux and BSD. [![][repo]](https://github.com/rizalmart/isomaster3)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
-- [NAPS2](https://www.naps2.com) :  [![][repo]]()
+- [NAPS2](https://www.naps2.com) : NAPS2 is a open-source document scanning application. Scan your documents from WIA, TWAIN, SANE, and ESCL scanners, organize the pages as you like, and save them as PDF, TIFF, JPEG, or PNG. Optical character recognition (OCR) is available using Tesseract. [![][repo]](https://github.com/cyanfish/naps2)
 - [OpenBangla Keyboard](https://openbangla.github.io) :  [![][repo]]()
+- [Open PDF Studio](https://open-aec.com/open-pdf-studio/) : A free, open-source PDF editor for people who work with drawings: markup, measuring to scale, revision compare and CAD import. [![][repo]](https://github.com/OpenAEC-Foundation/open-pdf-studio)v
 - [PeaZip](https://peazip.github.io) :  [![][repo]]()
-- [PDF4QT](https://jakubmelka.github.io) :  [![][repo]](https://github.com/JakubMelka/PDF4QT)
 - [Pot](https://pot-app.com) :  [![][repo]](https://github.com/pot-app/pot-desktop)
 - [Speech Note](https://github.com/mkiol/dsnote) : Speech Note is an app for note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
-- [Stirling PDF](https://www.stirlingpdf.com) :  [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
+- [Stirling PDF](https://www.stirling.com) : Stirling PDF is a powerful, open-source PDF editing platform. Edit, sign, redact, convert, and automate PDFs without sending documents to external services. [![][repo]](https://github.com/Stirling-Tools/Stirling-PDF)
 - [Typing Commander](https://typingcommander.com) :  [![][repo]](https://sourceforge.net/projects/typing-commander)
 - [Tellico](https://tellico-project.org) :  [![][repo]]()
 
@@ -391,6 +397,7 @@
 
 ## :steam_locomotive: Runtime Environment
 
+- [DxWrapper](https://github.com/elishacloud/dxwrapper) : DxWrapper is a .dll file designed to wrap DirectX files to fix compatibility issues in older games. This project is primarily targeted at fixing issues with running games on Windows 10/11, by simply dropping .dll and .ini files into the game folder.
 - [.NET Desktop Runtime](https://dotnet.microsoft.com) :  [![][repo]]()
 - [Java Runtime](https://adoptium.net) :  [![][repo]]()
 - [ROCm](https://github.com/ROCm/ROCm) :  [![][repo]]()
@@ -410,11 +417,11 @@
   - [ScreenStyler](https://screenstyler.com) :  [![][repo]]()
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) :  [![][repo]]()
 - [Attribute Changer](https://www.petges.lu) :  [![][repo]]()
-- [Czkawka](https://github.com/qarmin/czkawka) : 
 - [DeadLock](https://codedead.com/software/deadlock/) : DeadLock can be used to unlock files and folders that are locked by other process(s). This can be useful if you want to delete or move a file that is in use. [![][repo]](https://github.com/CodeDead/DeadLock)
-- [ExifToolGui](https://github.com/FrankBijnen/ExifToolGui) : 
-- [Gramps](https://gramps-project.org) :  [![][repo]]()
-- [Szyszka](https://github.com/qarmin/szyszka) : 
+- [ExifGlass](https://imageglass.org/exifglass) : ExifGlass is a cross-platform EXIF metadata viewing and editing tool. [![][repo]](https://github.com/d2phap/ExifGlass)
+- [Gramps](https://gramps-project.org) : Gramps is a free, open source program that has been designed to be a flexible and powerful genealogy tool. It is a framework for collecting genealogical data, noting how each piece of data interrelates and presenting those relationships. [![][repo]](https://github.com/gramps-project/gramps)
+- [Krokiet](https://github.com/qarmin/czkawka) : Multi functional app to find duplicates, similar images and videos, same music, etc. 
+- [Once Power](https://github.com/ilgnefz/once_power) : All-in-One Desktop Tool for Batch Rename & Organization.
 - [UniGetUI](https://www.marticliment.com/unigetui) :  [![][repo]](https://github.com/marticliment/UniGetUI)
 - [Universal Extractor](https://github.com/Bioruebe/UniExtract2) :  [![][repo]]()
 - [Ventoy](https://www.ventoy.net) :  [![][repo]]()
@@ -437,9 +444,9 @@
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) : CrystalDiskInfo is an open source utility that monitors and displays the health of your HDD/SSD, including basic information, S.M.A.R.T. values, and disk temperature. [![][repo]](https://github.com/hiyohiyo/CrystalDiskInfo)
 - [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) : 
 - [Glow](https://www.turkaysoftware.com/glow) :  [![][repo]](https://github.com/turkaysoftware/glow)
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner) :  [![][repo]]()
-- [System Informer](https://systeminformer.sourceforge.io) :  [![][repo]](https://github.com/winsiderss/systeminformer)
-- [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) :  [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner) : 
+- [System Informer](https://systeminformer.io) : A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![][repo]](https://github.com/winsiderss/systeminformer)
+- [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) : TUXEDO Control Center (TCC) gives Linux laptop users full control over their hardware like CPU cores, fan speed and more. [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
 
 
 ## :man_technologist: Hacking & Forensics Tools
