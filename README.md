@@ -447,7 +447,7 @@
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) : 
 - [System Informer](https://systeminformer.io) : A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![][repo]](https://github.com/winsiderss/systeminformer)
 - [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) : TUXEDO Control Center (TCC) gives Linux laptop users full control over their hardware like CPU cores, fan speed and more. [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
-
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) : Windows 11 preview that opens apps, browser profiles, and URLs in chosen display layouts using a configurable hold shortcut. [![][repo]](https://github.com/stanczykwyatt/latchlayout)
 
 ## :man_technologist: Hacking & Forensics Tools
 
