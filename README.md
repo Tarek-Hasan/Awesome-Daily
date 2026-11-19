@@ -63,6 +63,7 @@
 - [VeraCrypt](https://www.veracrypt.fr) : VeraCrypt is an open source and cross-platform disk encryption software. Encryption is automatic, real-time(on-the-fly) and transparent. [![][repo]](https://github.com/veracrypt/VeraCrypt)
 - [ZoneMinder](https://www.zoneminder.com) : ZoneMinder is an integrated set of applications which provide a complete surveillance solution allowing capture, analysis, recording and monitoring of any CCTV or security cameras. [![][repo]](https://github.com/ZoneMinder/zoneminder)
   - [zmNinjaNg](https://zmninjang.zoneminder.com) :  zmNinjaNg is a multi-platform client for ZoneMinder users. [![][repo]](https://github.com/ZoneMinder/zmNinjaNg)
+- [BitTool Signer for iOS](https://bittool.com/signer/) : Free, open-source offline cryptocurrency signing for iOS 17+. Keeps keys on a dedicated iPhone and exchanges signing requests and signatures through QR codes.
 
 
 ## :recycle: Backup & Recovery
