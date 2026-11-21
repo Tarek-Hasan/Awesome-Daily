@@ -350,6 +350,7 @@
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
 - [Python](https://www.python.org) :  [![][repo]]()
+- [DevProjex](https://github.com/Avazbek22/DevProjex) : Turns a codebase into token-efficient context for LLMs and coding agents, with secrets masked: desktop app, CLI, TUI, and MCP server. A Repomix alternative that uses up to 40% fewer tokens. [![][repo]](https://github.com/Avazbek22/DevProjex)
 
   #### :jigsaw: Extensions: [*Python Package Index (PyPI)*](https://pypi.org)
   - PyQt6
